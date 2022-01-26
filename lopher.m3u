@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="MEX FHD: AZTECA  1" tvg-logo="http://tvgalaxy.online:8080/images/e91eebe492eedcd32634722dea18afee.png" group-title="MEXICO",MEX FHD: AZTECA  1
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/93858
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | MARVEL" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="24/7",PPV MOVIES | MARVEL
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/172920
+
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png",AZTECA UNO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=7&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=2867",AZ CLIC 
