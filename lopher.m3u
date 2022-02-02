@@ -345,6 +345,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg",HGTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=3105&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg",HGTV 480p
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=3105&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/f756578ec005c2ab8da7a8334173509c.png",DISCOVERY CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=86&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://xtream-coders.com/x0/latino/discovery_hh.png",DISCOVERY H&H
