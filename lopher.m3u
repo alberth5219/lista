@@ -188,16 +188,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
  
 #EXTINF:-1 group-title="HBO",HBO FHD
 http://45.181.122.17:8000/play/a008
-#EXTINF:-1 group-title="HBO",HBO
-http://181.160.88.187:8000/play/a0cv
-#EXTINF:-1 group-title="HBO",HBO 2
-http://181.160.88.187:8000/play/a0bn
 #EXTINF:-1 group-title="HBO",HBO 2
 http://161.132.107.29:8000/play/a0hb/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2
 http://161.132.107.28:8000/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Family
-http://181.160.88.187:8000/play/a0bq
 #EXTINF:-1 group-title="HBO",HBO Family
 http://161.132.107.29:8000/play/a0he/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family
@@ -207,13 +201,9 @@ http://186.67.73.110:2221/play/a017
 #EXTINF:-1 group-title="HBO",HBO HD T
 http://186.67.73.110:2221/play/a02l
 #EXTINF:-1 group-title="HBO",HBO Plus
-http://181.160.88.187:8000/play/a0bo
-#EXTINF:-1 group-title="HBO",HBO Plus
 http://161.132.107.29:8000/play/a0hc/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus
 http://161.132.107.28:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO XTREME SD
-http://181.160.88.187:8000/play/a0bp
 #EXTINF:-1 group-title="HBO",HBO XTREME SD
 http://161.132.107.29:8000/play/a0hd/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO XTREME SD
