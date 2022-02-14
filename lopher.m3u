@@ -186,61 +186,50 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/latino/fxm.png",FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=138&format=HLS&f=.m3u8
  
-#EXTINF:-1 group-title="HBO",HBO FHD
-http://45.181.122.17:8000/play/a008
-#EXTINF:-1 group-title="HBO",HBO 2
-http://161.132.107.29:8000/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2
-http://161.132.107.28:8000/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Family
-http://161.132.107.29:8000/play/a0he/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Family
-http://161.132.107.28:8000/play/a0he/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO HD
-http://186.67.73.110:2221/play/a017
-#EXTINF:-1 group-title="HBO",HBO HD T
-http://186.67.73.110:2221/play/a02l
-#EXTINF:-1 group-title="HBO",HBO Plus
-http://161.132.107.29:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Plus
-http://161.132.107.28:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO XTREME SD
-http://161.132.107.29:8000/play/a0hd/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO XTREME SD
-http://161.132.107.28:8000/play/a0hd/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO SD (CO) (E)
-http://hidra.live:80/EliasCantillo/13985235/35285
-#EXTINF:-1 group-title="HBO",HBO 2 SD (CO) (E)
-http://hidra.live:80/EliasCantillo/13985235/35287
-#EXTINF:-1 group-title="HBO",HBO 2 FHD (MX) (E)
-http://hidra.live:80/EliasCantillo/13985235/35288
-#EXTINF:-1 group-title="HBO",HBO Plus SD (CO) (E)
-http://hidra.live:80/EliasCantillo/13985235/35289
-#EXTINF:-1 group-title="HBO",HBO Family SD (CO) (E)
-http://hidra.live:80/EliasCantillo/13985235/35291
-#EXTINF:-1 group-title="HBO",HBO Signature SD (MX.) (E)
-http://hidra.live:80/EliasCantillo/13985235/35293
-#EXTINF:-1 group-title="HBO",HBO Pop SD (E)
-http://hidra.live:80/EliasCantillo/13985235/35257
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
+http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcinema.mx" tvg-name="Starz Cinema HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Cinema HD
+http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
+http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
+http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzeast.mx" tvg-name="Starz East HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz East HD
+http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzedge.mx" tvg-name="Starz Edge HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Edge HD
+http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzkids&family.mx" tvg-name="Starz Kids & Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Kids & Family HD
+http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzwest.mx" tvg-name="Starz West HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz West HD
+http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
+http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
+http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreaction.mx" tvg-name="Starz Encore Action" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Action
+http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreblack.mx" tvg-name="Starz Encore Black HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Black HD
+http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreclassic.mx" tvg-name="Starz Encore Classic HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Classic HD
+http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorefamily.mx" tvg-name="Starz Encore Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Family HD
+http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoresuspense.mx" tvg-name="Starz Encore Suspense HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Suspense HD
+http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
+http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
  
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png",STAR CHANNEL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=46&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starlife.png",STAR LIFE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=77&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png",STAR SERIES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=139&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png",STAR HITS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=146&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png",STAR ACTION
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=336&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=1724&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png",STAR COMEDY
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=1725&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png",STAR CINEMA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=1729&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png",STAR CLASSICS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=1732&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-id="f5c1b9f04c535eb9ff5db8109cddbb4a" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+http://45.160.73.129:8888/play/a03b/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-id="50c859d040821385d7b45cbd2ee16835" tvg-name="HBO 2 HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
+http://45.160.73.129:8888/play/a05f/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.co" tvg-name="HBO EXTREME" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+http://45.160.73.129:8888/play/a05b/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-id="e1ec1b18022848dae76b46d618873c74" tvg-name="HBO FAMILY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+http://45.160.73.129:8888/play/a05h/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+http://45.160.73.129:8888/play/a05g/index.m3u8
+
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/latino/morbido_tv.png",MORBIDO TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=140&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/cinemax.png",CINEMAX
