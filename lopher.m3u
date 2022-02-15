@@ -32,41 +32,6 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4713
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4712
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 16 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 16 PPV
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4711
-
-#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://45.160.73.129:8888/play/a00i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://190.4.0.200:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="60229b6acdbc3006f3cf7eff8704b68c" tvg-name="ESPN EXTRA" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
-http://190.4.0.200:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.160.73.129:8888/play/a00j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.160.73.129:8888/play/a032/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://45.160.73.129:8888/play/a03r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://190.4.0.200:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
-http://45.160.73.129:8888/play/a00h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://190.4.0.200:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://190.4.0.200:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://45.160.73.129:8888/play/a00t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://190.4.0.200:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS
-http://45.160.73.129:8888/play/a00x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 2
-http://45.160.73.129:8888/play/a012/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 3
-http://45.160.73.129:8888/play/a00m/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://45.160.73.129:8888/play/a04r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://161.132.107.29:8000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 17 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 17 PPV
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4710
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 18 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 18 PPV
@@ -132,72 +97,37 @@ http://45.160.73.129:8888/play/a05h/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://45.160.73.129:8888/play/a05g/index.m3u8
 
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery H&H
-http://187.94.148.10:8090/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery H&H HD
-http://45.225.93.154:4000/play/a0al
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery HD
-http://45.225.93.154:4000/play/a0e1
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery Kids HD
-http://45.225.93.154:4000/play/a0ak
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery Theater HD
-http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery Turbo
-http://187.94.148.10:8090/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery World HD
-http://45.225.93.154:4000/play/a05b
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Disney HD
-http://45.225.93.154:4000/play/disneyhd
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",DTV DISTRITO HD
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Comedy Central HD
-http://45.225.93.154:4000/play/a0f5
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FX
-http://187.94.148.10:8090/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FOX HD
-http://45.225.93.154:4000/play/a0ao
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FX HD
-http://45.225.93.154:4000/play/a0aw
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Paramount HD
-http://45.225.93.154:4000/play/a05j
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Paramount Network
-http://187.94.148.10:8090/play/a027/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Reggae
-http://187.94.148.4:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Sony HD
-http://45.225.93.154:4000/play/a06d
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Space HD
-http://45.225.93.154:4000/play/a06g
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",TNT
-http://187.94.148.10:8090/play/a011/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",TNT HD
-http://45.225.93.154:4000/play/a06w
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",AMC
-http://187.94.148.10:8090/play/a02l/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",AMC HD
-http://45.225.93.154:4000/play/a056
-
-
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN EXTRA HD
-http://45.225.93.154:4000/play/a05e
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN HD
-http://45.225.93.154:4000/play/a06j
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN 2 HD
-http://45.225.93.154:4000/play/a0ax
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN 3 HD
-http://45.225.93.154:4000/play/espn3hd
-
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports
-http://187.94.148.4:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports 1 HD
-http://45.225.93.154:4000/play/a07k
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports 2
-http://187.94.148.10:8090/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FOX Sports 2 HD
-http://45.225.93.154:4000/play/a0at
-#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports 3 HD
-http://45.225.93.154:4000/play/foxsports3hd
-
-
-
-
+#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
+http://45.160.73.129:8888/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
+http://190.4.0.200:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="60229b6acdbc3006f3cf7eff8704b68c" tvg-name="ESPN EXTRA" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
+http://190.4.0.200:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
+http://45.160.73.129:8888/play/a00j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
+http://45.160.73.129:8888/play/a032/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
+http://45.160.73.129:8888/play/a03r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
+http://190.4.0.200:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
+http://45.160.73.129:8888/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://190.4.0.200:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://190.4.0.200:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://45.160.73.129:8888/play/a00t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://190.4.0.200:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS
+http://45.160.73.129:8888/play/a00x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 2
+http://45.160.73.129:8888/play/a012/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 3
+http://45.160.73.129:8888/play/a00m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
+http://45.160.73.129:8888/play/a04r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
+http://161.132.107.29:8000/play/a0hr/index.m3u8
