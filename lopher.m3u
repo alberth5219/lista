@@ -132,6 +132,71 @@ http://45.160.73.129:8888/play/a05h/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://45.160.73.129:8888/play/a05g/index.m3u8
 
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery H&H
+http://187.94.148.10:8090/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery H&H HD
+http://45.225.93.154:4000/play/a0al
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery HD
+http://45.225.93.154:4000/play/a0e1
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery Kids HD
+http://45.225.93.154:4000/play/a0ak
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery Theater HD
+http://45.225.93.154:4000/play/a0am
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery Turbo
+http://187.94.148.10:8090/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Discovery World HD
+http://45.225.93.154:4000/play/a05b
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Disney HD
+http://45.225.93.154:4000/play/disneyhd
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",DTV DISTRITO HD
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Comedy Central HD
+http://45.225.93.154:4000/play/a0f5
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FX
+http://187.94.148.10:8090/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FOX HD
+http://45.225.93.154:4000/play/a0ao
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FX HD
+http://45.225.93.154:4000/play/a0aw
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Paramount HD
+http://45.225.93.154:4000/play/a05j
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Paramount Network
+http://187.94.148.10:8090/play/a027/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Reggae
+http://187.94.148.4:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Sony HD
+http://45.225.93.154:4000/play/a06d
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Space HD
+http://45.225.93.154:4000/play/a06g
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",TNT
+http://187.94.148.10:8090/play/a011/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",TNT HD
+http://45.225.93.154:4000/play/a06w
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",AMC
+http://187.94.148.10:8090/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",AMC HD
+http://45.225.93.154:4000/play/a056
+
+
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN EXTRA HD
+http://45.225.93.154:4000/play/a05e
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN HD
+http://45.225.93.154:4000/play/a06j
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN 2 HD
+http://45.225.93.154:4000/play/a0ax
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",ESPN 3 HD
+http://45.225.93.154:4000/play/espn3hd
+
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports
+http://187.94.148.4:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports 1 HD
+http://45.225.93.154:4000/play/a07k
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports 2
+http://187.94.148.10:8090/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",FOX Sports 2 HD
+http://45.225.93.154:4000/play/a0at
+#EXTINF:-1 group-title="Amerika_*Latino MIX1" $ExtFilter="IPTV",Fox Sports 3 HD
+http://45.225.93.154:4000/play/foxsports3hd
 
 
 
