@@ -86,36 +86,89 @@ http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="Starz" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
 http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
  
-#EXTINF:-1 group-title="PREMIUM" tvg-id="f5c1b9f04c535eb9ff5db8109cddbb4a" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://45.160.73.129:8888/play/a03b/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="50c859d040821385d7b45cbd2ee16835" tvg-name="HBO 2 HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
-http://45.160.73.129:8888/play/a05f/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.co" tvg-name="HBO EXTREME" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
-http://45.160.73.129:8888/play/a05b/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="e1ec1b18022848dae76b46d618873c74" tvg-name="HBO FAMILY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-http://45.160.73.129:8888/play/a05h/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
-http://45.160.73.129:8888/play/a05g/index.m3u8
+#EXTINF:-1 group-title="HBO",CINEMA: HBO 1 HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/11989
+#EXTINF:-1 group-title="HBO",CINEMA: HBO 2 HD*
+http://ui.mrzutv.net:8080/spiderman/spiderman/11993
+#EXTINF:-1 group-title="HBO",CINEMA: HBO Family HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/11988
+#EXTINF:-1 group-title="HBO",CINEMA: HBO MUNDI
+http://ui.mrzutv.net:8080/spiderman/spiderman/20422
+#EXTINF:-1 group-title="HBO",CINEMA: HBO Plus HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/11991
+#EXTINF:-1 group-title="HBO",CINEMA: HBO POP HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/8102
+#EXTINF:-1 group-title="HBO",CINEMA: HBO SIGNATURE HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/5722
+#EXTINF:-1 group-title="HBO",CINEMA: HBO Xtreme HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/4942
+#EXTINF:-1 group-title="HBO",CINEMA: HBO XTREME HD*
+http://ui.mrzutv.net:8080/spiderman/spiderman/12011
 
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : A+ 
+#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="SD | STAR ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-action_m.png" group-title="SD LATINOS",SD | STAR ACTION
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2249
+#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="CINE | STAR ACTION FHD (CO)" tvg-logo="https://i.ibb.co/f2wMzMb/descarga-10.jpg" group-title="CINE",CINE | STAR ACTION FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2247
+#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="CINE | STAR ACTION HD (CO)" tvg-logo="https://i.ibb.co/f2wMzMb/descarga-10.jpg" group-title="CINE",CINE | STAR ACTION HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2248
+#EXTINF:-1 tvg-id="" tvg-name="SD | STAR CINEMA" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="SD LATINOS",SD | STAR CINEMA
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5127
+#EXTINF:-1 tvg-id="foxpremiumcinema.co" tvg-name="CINE | STAR CINEMA HD (CO)" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="CINE",CINE | STAR CINEMA HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2254
+#EXTINF:-1 tvg-id="directv.cl-562_0" tvg-name="CINE | STAR CINEMA FHD (MX)" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="CINE",CINE | STAR CINEMA FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2253
+#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="SD | STAR CLASSICS" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="SD LATINOS",SD | STAR CLASSICS
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5126
+#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="CINE | STAR CLASSICS HD (CO)" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="CINE",CINE | STAR CLASSICS HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2256
+#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="CINE | STAR CLASSICS FHD (CO)" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="CINE",CINE | STAR CLASSICS FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2255
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="SD | STAR COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-comedy_m.png" group-title="SD LATINOS",SD | STAR COMEDY
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2246
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINE | STAR COMEDY HD (CO)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="CINE",CINE | STAR COMEDY HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5150
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINE | STAR COMEDY FHD (CO)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="CINE",CINE | STAR COMEDY FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5149
+#EXTINF:-1 tvg-id="foxpremiumfamily.co" tvg-name="CINE | STAR FUN FHD (CO)" tvg-logo="https://i.ibb.co/WzF93Lf/descarga-8.png" group-title="CINE",CINE | STAR FUN FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2243
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="SD | STAR FUN" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-family_m.png" group-title="SD LATINOS",SD | STAR FUN
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2244
+#EXTINF:-1 tvg-id="foxpremiumfamily.co" tvg-name="CINE | STAR FUN HD (CO)" tvg-logo="https://i.ibb.co/WzF93Lf/descarga-8.png" group-title="CINE",CINE | STAR FUN HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2245
+#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="SD | STAR HITS" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-movies_m.png" group-title="SD LATINOS",SD | STAR HITS
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2252
+#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINE | STAR HITS FHD (CO)" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="CINE",CINE | STAR HITS FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2250
+#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINE | STAR HITS HD (CO)" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="CINE",CINE | STAR HITS HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2251
+#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="SD | STAR SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-1-este_m.png" group-title="SD LATINOS",SD | STAR SERIES
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2242
+#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="CINE | STAR SERIES FHD (CO)" tvg-logo="https://i.ibb.co/tBVDrdx/large-Star-Series-Logo2021-Fondo-Oscuro-png-4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="CINE",CINE | STAR SERIES FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2239
+#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="CINE | STAR SERIES HD (CO)" tvg-logo="https://i.ibb.co/tBVDrdx/large-Star-Series-Logo2021-Fondo-Oscuro-png-4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="CINE",CINE | STAR SERIES HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2240
+#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="CINE | STAR SERIES SUB HD (CO)" tvg-logo="https://i.ibb.co/tBVDrdx/large-Star-Series-Logo2021-Fondo-Oscuro-png-4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="CINE",CINE | STAR SERIES SUB HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2241
+
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL : A+ 
 http://ui.mrzutv.net:8080/spiderman/spiderman/38770
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : AZTECA 7 HD 720
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL : AZTECA 7 HD 720
 http://ui.mrzutv.net:8080/spiderman/spiderman/219
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : AZTECA UNO HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL : AZTECA UNO HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/220
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO:  ESTRELLAS HD-
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL:  ESTRELLAS HD-
 http://ui.mrzutv.net:8080/spiderman/spiderman/11061
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO:  LAS ESTRELLAS
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL:  LAS ESTRELLAS
 http://ui.mrzutv.net:8080/spiderman/spiderman/40970
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: CANAL 5 HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL: CANAL 5 HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/106
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: CANAL 5 HD 1080
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL: CANAL 5 HD 1080
 http://ui.mrzutv.net:8080/spiderman/spiderman/64216
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: CANAL 5 MX SD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL: CANAL 5 MX SD
 http://ui.mrzutv.net:8080/spiderman/spiderman/40969
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: ESTRELLAS HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL: ESTRELLAS HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/1563
-#EXTINF:-1 tvg-id="" tvg-name="MUN | HGTV HD (MX)" tvg-logo="" group-title="TV ENTRETENIMIENTO",MUN | HGTV HD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="MUN | HGTV HD (MX)" tvg-logo="" group-title="TV ENTRETENIMIENTO",CANAL | HGTV HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2401
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11863
@@ -146,24 +199,6 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/78
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEN SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16682
 
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 1 HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/11989
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 2 HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11993
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Family HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/11988
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO MUNDI
-http://ui.mrzutv.net:8080/spiderman/spiderman/20422
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Plus HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/11991
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO POP HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/8102
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO SIGNATURE HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/5722
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Xtreme HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/4942
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO XTREME HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/12011
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: Paramount HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/30792
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: PARAMOUNT NETWORK TP MX
