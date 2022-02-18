@@ -195,7 +195,7 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/385
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2077
 #EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="VAR | A&E HD (CO)" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="VARIEDADES",VAR | A&E HD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2078
-#EXTINF:-1 tvg-id="amc.co" tvg-name="SD | AMC" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="SD LATINOS",SD | AMC
+#EXTINF:-1 tvg-id="amc.co" tvg-name="SD | AMC" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="VARIEDADES",VAR | AMC
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5164
 #EXTINF:-1 tvg-id="amc.co" tvg-name="VAR | AMC HD (CO)" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="VARIEDADES",VAR | AMC HD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2084
@@ -209,9 +209,9 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2081
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4699
 #EXTINF:-1 tvg-id="axn.co" tvg-name="VAR | AXN FHD (CO)" tvg-logo="https://i.postimg.cc/50mcf7Nc/209.png" group-title="VARIEDADES",VAR | AXN FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2080
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="SD | Bandamax " tvg-logo="https://i.postimg.cc/5N4KDhK1/bandamax.png" group-title="SD LATINOS",SD | Bandamax 
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="SD | Bandamax " tvg-logo="https://i.postimg.cc/5N4KDhK1/bandamax.png" group-title="VARIEDADES",VAR | Bandamax 
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2146
-#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="SD | Comedy Central" tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="SD LATINOS",SD | Comedy Central
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="SD | Comedy Central" tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="VARIEDADES",VAR | Comedy Central
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2093
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="VAR | Comedy Central FHD (CO)" tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="VARIEDADES",VAR | Comedy Central FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2091
@@ -233,7 +233,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2111
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2109
 #EXTINF:-1 tvg-id="" tvg-name="VAR | E! Entertainment HD (AR)" tvg-logo="https://i.postimg.cc/bvnRkHgV/e.png" group-title="VARIEDADES",VAR | E! Entertainment HD (AR)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2110
-#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="SD | El Gourmet" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="SD LATINOS",SD | El Gourmet
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="SD | El Gourmet" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="VARIEDADES",VAR | El Gourmet
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2128
 #EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="VAR | El Gourmet FHD (CO)" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="VARIEDADES",VAR | El Gourmet FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2126
@@ -243,19 +243,19 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2127
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2130
 #EXTINF:-1 tvg-id="" tvg-name="VAR | Food Network FHD (MX)" tvg-logo="https://i.postimg.cc/G3KCwkRy/food.png" group-title="VARIEDADES",VAR | Food Network FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2129
-#EXTINF:-1 tvg-id="fox.co" tvg-name="SD | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="SD LATINOS",SD | STAR CHANNEL
+#EXTINF:-1 tvg-id="fox.co" tvg-name="SD | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="VARIEDADES",VAR | STAR CHANNEL
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2070
 #EXTINF:-1 tvg-id="fox.co" tvg-name="VAR | STAR CHANNEL FHD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="VARIEDADES",VAR | STAR CHANNEL FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2068
 #EXTINF:-1 tvg-id="fox.co" tvg-name="VAR | STAR CHANNEL HD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="VARIEDADES",VAR | STAR CHANNEL HD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2069
-#EXTINF:-1 tvg-id="" tvg-name="SD | STAR LIFE" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="SD LATINOS",SD | STAR LIFE
+#EXTINF:-1 tvg-id="" tvg-name="SD | STAR LIFE" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="VARIEDADES",VAR | STAR LIFE
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2087
 #EXTINF:-1 tvg-id="foxlife.co" tvg-name="VAR | STAR LIFE FHD (CO)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="VARIEDADES",VAR | STAR LIFE FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2085
 #EXTINF:-1 tvg-id="foxlife.la" tvg-name="VAR | STAR LIFE HD (MX)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="VARIEDADES",VAR | STAR LIFE HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2086
-#EXTINF:-1 tvg-id="fx.us" tvg-name="SD | FX " tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="SD LATINOS",SD | FX 
+#EXTINF:-1 tvg-id="fx.us" tvg-name="SD | FX " tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="VARIEDADES",VAR | FX 
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2098
 #EXTINF:-1 tvg-id="fx.co" tvg-name="VAR | FX FHD (CO)" tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="VARIEDADES",VAR | FX FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2096
@@ -269,7 +269,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2108
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2107
 #EXTINF:-1 tvg-id="htv.co" tvg-name="VAR | HTV HD (AR)" tvg-logo="https://i.postimg.cc/xd82Yksf/htv.png" group-title="VARIEDADES",VAR | HTV HD (AR)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2147
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | Investigation Discovery" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="SD LATINOS",SD | Investigation Discovery
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | Investigation Discovery" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="VARIEDADES",VAR | Investigation Discovery
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2113
 #EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="VAR | Investigation Discovery FHD (CO)" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="VARIEDADES",VAR | Investigation Discovery FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2112
@@ -285,7 +285,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2124
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2122
 #EXTINF:-1 tvg-id="maschictv.mx" tvg-name="VAR | Mas Chic HD (MX)" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="VARIEDADES",VAR | Mas Chic HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2123
-#EXTINF:-1 tvg-id="mtv.co" tvg-name="SD | MTV " tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="SD LATINOS",SD | MTV 
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="SD | MTV " tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="VARIEDADES",VAR | MTV 
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2135
 #EXTINF:-1 tvg-id="mtv.co" tvg-name="VAR | MTV FHD (CO)" tvg-logo="https://i.postimg.cc/4xLyJDTp/mtv.png" group-title="VARIEDADES",VAR | MTV FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2133
@@ -303,7 +303,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2131
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2115
 #EXTINF:-1 tvg-id="" tvg-name="VAR | Telehit Urbano" tvg-logo="https://i.postimg.cc/YC14gPkG/urbano-telehit.png" group-title="VARIEDADES",VAR | Telehit Urbano
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2145
-#EXTINF:-1 tvg-id="sony.co" tvg-name="SD | Sony Channel" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="SD LATINOS",SD | Sony Channel
+#EXTINF:-1 tvg-id="sony.co" tvg-name="SD | Sony Channel" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="VARIEDADES",VAR | Sony Channel
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2073
 #EXTINF:-1 tvg-id="sony.co" tvg-name="VAR | Sony Channel FHD (CO)" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="VARIEDADES",VAR | Sony Channel FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2071
@@ -315,7 +315,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2103
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2101
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-name="VAR | SYFY HD (MX)" tvg-logo="https://i.postimg.cc/j2Ns6QRZ/1-M7hp-A6-D-400x400.jpg" group-title="VARIEDADES",VAR | SYFY HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2102
-#EXTINF:-1 tvg-id="tbs.la" tvg-name="SD | TBS" tvg-logo="https://i.postimg.cc/R0fXBWC2/216.png" group-title="SD LATINOS",SD | TBS
+#EXTINF:-1 tvg-id="tbs.la" tvg-name="SD | TBS" tvg-logo="https://i.postimg.cc/R0fXBWC2/216.png" group-title="VARIEDADES",VAR | TBS
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2095
 #EXTINF:-1 tvg-id="tbs.la" tvg-name="VAR | TBS HD (MX)" tvg-logo="https://i.postimg.cc/R0fXBWC2/216.png" group-title="VARIEDADES",VAR | TBS HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2094
@@ -327,7 +327,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2125
 #EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="VAR | Tlnovelas HD (MX)" tvg-logo="https://i.postimg.cc/cLS1ddjK/tlnovelas.png" group-title="VARIEDADES",VAR | Tlnovelas HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2116
-#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="SD | TNT Series " tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="SD LATINOS",SD | TNT Series 
+#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="SD | TNT Series " tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="VARIEDADES",VAR | TNT Series 
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2090
 #EXTINF:-1 tvg-id="EPG123.91993.schedulesdirect.org" tvg-name="VAR | TNT Series FHD (MX)" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="VARIEDADES",VAR | TNT Series FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2088
@@ -353,10 +353,10 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2140
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2141
 #EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 MEGAHITS HD (AR)" tvg-logo="https://i.postimg.cc/VLvBqmHS/vh1-megahits.png" group-title="VARIEDADES",VAR | VH1 MEGAHITS HD (AR)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2144
-#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner Channel" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="SD LATINOS",SD | Warner Channel
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner Channel" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="VARIEDADES",VAR | Warner Channel
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2076
 #EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="VAR | Warner Channel FHD (CO)" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="VARIEDADES",VAR | Warner Channel FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2074
-#EXTINF:-1 tvg-id="" tvg-name="SD | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="SD LATINOS",SD | Warner Channel.
+#EXTINF:-1 tvg-id="" tvg-name="SD | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="VARIEDADES",VAR | Warner Channel.
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2075
 
