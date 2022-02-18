@@ -53,37 +53,37 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4702
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 26 PPV" tvg-logo="https://i.postimg.cc/s2zHV4qp/cinema-ppv.png" group-title="CINEMA PPV",CINEMA 26 PPV
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4701
 
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
+#EXTINF:-1 group-title="Starz" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
 http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcinema.mx" tvg-name="Starz Cinema HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Cinema HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzcinema.mx" tvg-name="Starz Cinema HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Cinema HD
 http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
 http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
 http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzeast.mx" tvg-name="Starz East HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz East HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzeast.mx" tvg-name="Starz East HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz East HD
 http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzedge.mx" tvg-name="Starz Edge HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Edge HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzedge.mx" tvg-name="Starz Edge HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Edge HD
 http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzkids&family.mx" tvg-name="Starz Kids & Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Kids & Family HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzkids&family.mx" tvg-name="Starz Kids & Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Kids & Family HD
 http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzwest.mx" tvg-name="Starz West HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz West HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzwest.mx" tvg-name="Starz West HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz West HD
 http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
 http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
 http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreaction.mx" tvg-name="Starz Encore Action" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Action
+#EXTINF:-1 group-title="Starz" tvg-id="starzencoreaction.mx" tvg-name="Starz Encore Action" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Action
 http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreblack.mx" tvg-name="Starz Encore Black HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Black HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzencoreblack.mx" tvg-name="Starz Encore Black HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Black HD
 http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreclassic.mx" tvg-name="Starz Encore Classic HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Classic HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzencoreclassic.mx" tvg-name="Starz Encore Classic HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Classic HD
 http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorefamily.mx" tvg-name="Starz Encore Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Family HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzencorefamily.mx" tvg-name="Starz Encore Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Family HD
 http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoresuspense.mx" tvg-name="Starz Encore Suspense HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Suspense HD
+#EXTINF:-1 group-title="Starz" tvg-id="starzencoresuspense.mx" tvg-name="Starz Encore Suspense HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Suspense HD
 http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
+#EXTINF:-1 group-title="Starz" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
 http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
  
 #EXTINF:-1 group-title="PREMIUM" tvg-id="f5c1b9f04c535eb9ff5db8109cddbb4a" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
@@ -96,41 +96,6 @@ http://45.160.73.129:8888/play/a05b/index.m3u8
 http://45.160.73.129:8888/play/a05h/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://45.160.73.129:8888/play/a05g/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://45.160.73.129:8888/play/a00i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://190.4.0.200:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="60229b6acdbc3006f3cf7eff8704b68c" tvg-name="ESPN EXTRA" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
-http://190.4.0.200:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.160.73.129:8888/play/a00j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.160.73.129:8888/play/a032/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://45.160.73.129:8888/play/a03r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://190.4.0.200:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
-http://45.160.73.129:8888/play/a00h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://190.4.0.200:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://190.4.0.200:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://45.160.73.129:8888/play/a00t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://190.4.0.200:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS
-http://45.160.73.129:8888/play/a00x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 2
-http://45.160.73.129:8888/play/a012/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 3
-http://45.160.73.129:8888/play/a00m/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://45.160.73.129:8888/play/a04r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://161.132.107.29:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : A+ 
 http://ui.mrzutv.net:8080/spiderman/spiderman/38770
@@ -152,16 +117,10 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/40969
 http://ui.mrzutv.net:8080/spiderman/spiderman/1563
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11863
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16624
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/62
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AXN HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11865
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINE CANAL SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16641
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINE LATINO SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16640
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINECANAL HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/65838
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINEMAX SD*
@@ -184,79 +143,218 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/62984
 http://ui.mrzutv.net:8080/spiderman/spiderman/78
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEN SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16682
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 1  SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16685
+
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 1 HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/11989
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 2 HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11993
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 2 SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16688
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Family HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/11988
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Family SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16686
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO MUNDI
 http://ui.mrzutv.net:8080/spiderman/spiderman/20422
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Plus HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/11991
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Plus SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16687
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO POP HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/8102
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO SIGNATURE HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/5722
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO XTREAME SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16697
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Xtreme HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/4942
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO XTREME HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12011
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: MULTIPREMIER SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16700
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: Paramount HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/30792
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: PARAMOUNT NETWORK TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/67
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: PARAMOUNT SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16708
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: SPACE HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12034
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: SPACE SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16710
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12039
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16711
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/58
 #EXTINF:-1,CINEMA: TCM SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16715
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT HD MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/59
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/12048
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16717
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",SERIE: WARNER CHANNEL HD TP MX*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: WARNER CHANNEL HD TP MX*
 http://ui.mrzutv.net:8080/spiderman/spiderman/72
-#EXTINF:-1 group-title="TV ENTRETENIMIENTO",SERIE: WARNER HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: WARNER HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12070
 
 
 #EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 1 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/383
-#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 1 SD [*]
-http://ui.mrzutv.net:8080/spiderman/spiderman/16681
-#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 2 HD [*]
-http://ui.mrzutv.net:8080/spiderman/spiderman/20675
 #EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 2 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/384
-#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 2 SD [*]
-http://ui.mrzutv.net:8080/spiderman/spiderman/16669
-#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 3 HD [*]
-http://ui.mrzutv.net:8080/spiderman/spiderman/16680
 #EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 3 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/385
-#EXTINF:-1 group-title="TV DEPORTE",TUDN MEXICO HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/69356
+
+#EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="VAR | A&E FHD (CO)" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="VARIEDADES",VAR | A&E FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2077
+#EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="VAR | A&E HD (CO)" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="VARIEDADES",VAR | A&E HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2078
+#EXTINF:-1 tvg-id="amc.co" tvg-name="SD | AMC" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="SD LATINOS",SD | AMC
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5164
+#EXTINF:-1 tvg-id="amc.co" tvg-name="VAR | AMC HD (CO)" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="VARIEDADES",VAR | AMC HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2084
+#EXTINF:-1 tvg-id="amc.co" tvg-name="VAR | AMC FHD (CO)" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="VARIEDADES",VAR | AMC FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2083
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="VAR | AXN" tvg-logo="https://i.postimg.cc/50mcf7Nc/209.png" group-title="VARIEDADES",VAR | AXN
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2082
+#EXTINF:-1 tvg-id="" tvg-name="VAR | AXN HD (AR)" tvg-logo="https://i.postimg.cc/50mcf7Nc/209.png" group-title="VARIEDADES",VAR | AXN HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2081
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="VAR | AXN HD (MX)" tvg-logo="https://i.postimg.cc/50mcf7Nc/209.png" group-title="VARIEDADES",VAR | AXN HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4699
+#EXTINF:-1 tvg-id="axn.co" tvg-name="VAR | AXN FHD (CO)" tvg-logo="https://i.postimg.cc/50mcf7Nc/209.png" group-title="VARIEDADES",VAR | AXN FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2080
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="SD | Bandamax " tvg-logo="https://i.postimg.cc/5N4KDhK1/bandamax.png" group-title="SD LATINOS",SD | Bandamax 
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2146
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="SD | Comedy Central" tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="SD LATINOS",SD | Comedy Central
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2093
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="VAR | Comedy Central FHD (CO)" tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="VARIEDADES",VAR | Comedy Central FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2091
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="VAR | Comedy Central HD (CO) " tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="VARIEDADES",VAR | Comedy Central HD (CO) 
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2092
+#EXTINF:-1 tvg-id="" tvg-name="VAR | DISCOVERY H&H" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="VARIEDADES",VAR | DISCOVERY H&H
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2121
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Discovery H&H HD (MX)" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="VARIEDADES",VAR | Discovery H&H HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4696
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="VAR | Discovery H&H FHD (CO)" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="VARIEDADES",VAR | Discovery H&H FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2120
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.ar" tvg-name="VAR | Discovery H&H FHD (AR) DUAL AUDIO" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="VARIEDADES",VAR | Discovery H&H FHD (AR) DUAL AUDIO
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4530
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Distrito Comedia HD (MX)" tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="VARIEDADES",VAR | Distrito Comedia HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/3285
+#EXTINF:-1 tvg-id="" tvg-name="VAR | E! Entertainment" tvg-logo="https://i.postimg.cc/bvnRkHgV/e.png" group-title="VARIEDADES",VAR | E! Entertainment
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2111
+#EXTINF:-1 tvg-id="" tvg-name="VAR | E! Entertainment FHD (MX)" tvg-logo="https://i.postimg.cc/bvnRkHgV/e.png" group-title="VARIEDADES",VAR | E! Entertainment FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2109
+#EXTINF:-1 tvg-id="" tvg-name="VAR | E! Entertainment HD (AR)" tvg-logo="https://i.postimg.cc/bvnRkHgV/e.png" group-title="VARIEDADES",VAR | E! Entertainment HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2110
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="SD | El Gourmet" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="SD LATINOS",SD | El Gourmet
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2128
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="VAR | El Gourmet FHD (CO)" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="VARIEDADES",VAR | El Gourmet FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2126
+#EXTINF:-1 tvg-id="EPG123.45910.schedulesdirect.org" tvg-name="VAR | El Gourmet HD (CO)" tvg-logo="https://i.postimg.cc/7ZTd6zFX/gourmet.png" group-title="VARIEDADES",VAR | El Gourmet HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2127
+#EXTINF:-1 tvg-id="" tvg-name="VAR | FOOD NETWORK" tvg-logo="https://i.postimg.cc/G3KCwkRy/food.png" group-title="VARIEDADES",VAR | FOOD NETWORK
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2130
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Food Network FHD (MX)" tvg-logo="https://i.postimg.cc/G3KCwkRy/food.png" group-title="VARIEDADES",VAR | Food Network FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2129
+#EXTINF:-1 tvg-id="fox.co" tvg-name="SD | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="SD LATINOS",SD | STAR CHANNEL
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2070
+#EXTINF:-1 tvg-id="fox.co" tvg-name="VAR | STAR CHANNEL FHD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="VARIEDADES",VAR | STAR CHANNEL FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2068
+#EXTINF:-1 tvg-id="fox.co" tvg-name="VAR | STAR CHANNEL HD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="VARIEDADES",VAR | STAR CHANNEL HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2069
+#EXTINF:-1 tvg-id="" tvg-name="SD | STAR LIFE" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="SD LATINOS",SD | STAR LIFE
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2087
+#EXTINF:-1 tvg-id="foxlife.co" tvg-name="VAR | STAR LIFE FHD (CO)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="VARIEDADES",VAR | STAR LIFE FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2085
+#EXTINF:-1 tvg-id="foxlife.la" tvg-name="VAR | STAR LIFE HD (MX)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="VARIEDADES",VAR | STAR LIFE HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2086
+#EXTINF:-1 tvg-id="fx.us" tvg-name="SD | FX " tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="SD LATINOS",SD | FX 
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2098
+#EXTINF:-1 tvg-id="fx.co" tvg-name="VAR | FX FHD (CO)" tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="VARIEDADES",VAR | FX FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2096
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="VAR | FX HD (MX)" tvg-logo="https://i.postimg.cc/QtQ4pHRc/fx.jpg" group-title="VARIEDADES",VAR | FX HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2097
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Glitz" tvg-logo="https://i.postimg.cc/BvRVGnYk/glitz.png" group-title="VARIEDADES",VAR | Glitz
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2114
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Hola TV" tvg-logo="https://i.postimg.cc/Sx6ZMXCq/221.png" group-title="VARIEDADES",VAR | Hola TV
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2108
+#EXTINF:-1 tvg-id="holatv.co" tvg-name="VAR | Hola TV FHD (CO)" tvg-logo="https://i.postimg.cc/Sx6ZMXCq/221.png" group-title="VARIEDADES",VAR | Hola TV FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2107
+#EXTINF:-1 tvg-id="htv.co" tvg-name="VAR | HTV HD (AR)" tvg-logo="https://i.postimg.cc/xd82Yksf/htv.png" group-title="VARIEDADES",VAR | HTV HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2147
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | Investigation Discovery" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="SD LATINOS",SD | Investigation Discovery
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2113
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="VAR | Investigation Discovery FHD (CO)" tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="VARIEDADES",VAR | Investigation Discovery FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2112
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Lifetime" tvg-logo="https://i.postimg.cc/Cxk029xF/lifetime.png" group-title="VARIEDADES",VAR | Lifetime
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2119
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Lifetime FHD (MX)" tvg-logo="https://i.postimg.cc/Cxk029xF/lifetime.png" group-title="VARIEDADES",VAR | Lifetime FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2117
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Lifetime HD (MX)" tvg-logo="https://i.postimg.cc/Cxk029xF/lifetime.png" group-title="VARIEDADES",VAR | Lifetime HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2118
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MAS CHIC" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="VARIEDADES",VAR | MAS CHIC
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2124
+#EXTINF:-1 tvg-id="maschic.co" tvg-name="VAR | Mas Chic FHD (CO)" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="VARIEDADES",VAR | Mas Chic FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2122
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="VAR | Mas Chic HD (MX)" tvg-logo="https://i.postimg.cc/MKrXxkwV/mas-chic.png" group-title="VARIEDADES",VAR | Mas Chic HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2123
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="SD | MTV " tvg-logo="https://cdn.mitvstatic.com/channels/76f4f4a6-d289-4c05-a838-c53065163dd4_m.jpg" group-title="SD LATINOS",SD | MTV 
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2135
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="VAR | MTV FHD (CO)" tvg-logo="https://i.postimg.cc/4xLyJDTp/mtv.png" group-title="VARIEDADES",VAR | MTV FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2133
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="VAR | MTV HD (CO)" tvg-logo="https://i.postimg.cc/4xLyJDTp/mtv.png" group-title="VARIEDADES",VAR | MTV HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2134
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MTV Hits" tvg-logo="https://i.postimg.cc/rm93rMZn/mtv-hits.png" group-title="VARIEDADES",VAR | MTV Hits
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2137
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MTV Hits HD (AR)" tvg-logo="https://i.postimg.cc/rm93rMZn/mtv-hits.png" group-title="VARIEDADES",VAR | MTV Hits HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2136
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MTV LIVE" tvg-logo="https://i.postimg.cc/QNJX82QV/mtv-live.png" group-title="VARIEDADES",VAR | MTV LIVE
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2132
+#EXTINF:-1 tvg-id="" tvg-name="VAR | MTV Live FHD (MX)" tvg-logo="https://i.postimg.cc/QNJX82QV/mtv-live.png" group-title="VARIEDADES",VAR | MTV Live FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2131
+#EXTINF:-1 tvg-id="pasiones.co" tvg-name="VAR | Pasiones FHD (CO)" tvg-logo="https://i.postimg.cc/HW8T5J1c/pasiones.png" group-title="VARIEDADES",VAR | Pasiones FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2115
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Telehit Urbano" tvg-logo="https://i.postimg.cc/YC14gPkG/urbano-telehit.png" group-title="VARIEDADES",VAR | Telehit Urbano
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2145
+#EXTINF:-1 tvg-id="sony.co" tvg-name="SD | Sony Channel" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="SD LATINOS",SD | Sony Channel
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2073
+#EXTINF:-1 tvg-id="sony.co" tvg-name="VAR | Sony Channel FHD (CO)" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="VARIEDADES",VAR | Sony Channel FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2071
+#EXTINF:-1 tvg-id="sony.co" tvg-name="VAR | Sony Channel HD (CO)" tvg-logo="https://i.postimg.cc/zfgb2WDH/image.png" group-title="VARIEDADES",VAR | Sony Channel HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2072
+#EXTINF:-1 tvg-id="" tvg-name="VAR | SYFY" tvg-logo="https://i.postimg.cc/j2Ns6QRZ/1-M7hp-A6-D-400x400.jpg" group-title="VARIEDADES",VAR | SYFY
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2103
+#EXTINF:-1 tvg-id="foxsyfy.la" tvg-name="VAR | SyFy FHD (MX)" tvg-logo="https://i.postimg.cc/j2Ns6QRZ/1-M7hp-A6-D-400x400.jpg" group-title="VARIEDADES",VAR | SyFy FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2101
+#EXTINF:-1 tvg-id="foxsyfy.la" tvg-name="VAR | SYFY HD (MX)" tvg-logo="https://i.postimg.cc/j2Ns6QRZ/1-M7hp-A6-D-400x400.jpg" group-title="VARIEDADES",VAR | SYFY HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2102
+#EXTINF:-1 tvg-id="tbs.la" tvg-name="SD | TBS" tvg-logo="https://i.postimg.cc/R0fXBWC2/216.png" group-title="SD LATINOS",SD | TBS
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2095
+#EXTINF:-1 tvg-id="tbs.la" tvg-name="VAR | TBS HD (MX)" tvg-logo="https://i.postimg.cc/R0fXBWC2/216.png" group-title="VARIEDADES",VAR | TBS HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2094
+#EXTINF:-1 tvg-id="" tvg-name="VAR | TELEHIT Plus" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="VARIEDADES",VAR | TELEHIT Plus
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2139
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Telehit Plus FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="VARIEDADES",VAR | Telehit Plus FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
+#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="VAR | Telemundo Internacional HD (AR)" tvg-logo="https://i.postimg.cc/SQfzBtjf/telemundo-internacional.png" group-title="VARIEDADES",VAR | Telemundo Internacional HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2125
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="VAR | Tlnovelas HD (MX)" tvg-logo="https://i.postimg.cc/cLS1ddjK/tlnovelas.png" group-title="VARIEDADES",VAR | Tlnovelas HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2116
+#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="SD | TNT Series " tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="SD LATINOS",SD | TNT Series 
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2090
+#EXTINF:-1 tvg-id="EPG123.91993.schedulesdirect.org" tvg-name="VAR | TNT Series FHD (MX)" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="VARIEDADES",VAR | TNT Series FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2088
+#EXTINF:-1 tvg-id="EPG123.91993.schedulesdirect.org" tvg-name="VAR | TNT Series HD (MX)" tvg-logo="https://i.postimg.cc/W4bg9tFM/ar-tnt-series-m.png" group-title="VARIEDADES",VAR | TNT Series HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2089
+#EXTINF:-1 tvg-id="" tvg-name="VAR | Tru TV" tvg-logo="https://i.postimg.cc/zGFs12dn/220.png" group-title="VARIEDADES",VAR | Tru TV
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2106
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="VAR | Tru TV FHD (MX)" tvg-logo="https://i.postimg.cc/zGFs12dn/220.png" group-title="VARIEDADES",VAR | Tru TV FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2104
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="VAR | Tru TV HD (MX)" tvg-logo="https://i.postimg.cc/zGFs12dn/220.png" group-title="VARIEDADES",VAR | Tru TV HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2105
+#EXTINF:-1 tvg-id="" tvg-name="VAR | UNIVERSAL" tvg-logo="https://i.postimg.cc/9MwVVtwC/218.png" group-title="VARIEDADES",VAR | UNIVERSAL
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2100
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="VAR | UNIVERSAL HD (CO)" tvg-logo="https://i.postimg.cc/9MwVVtwC/218.png" group-title="VARIEDADES",VAR | UNIVERSAL HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2099
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="VARIEDADES",VAR | VH1
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2142
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 Classic" tvg-logo="https://i.postimg.cc/LhF98HJy/vh1-classic.png" group-title="VARIEDADES",VAR | VH1 Classic
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2143
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 FHD (MX)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="VARIEDADES",VAR | VH1 FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2140
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 HD (AR)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="VARIEDADES",VAR | VH1 HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2141
+#EXTINF:-1 tvg-id="" tvg-name="VAR | VH1 MEGAHITS HD (AR)" tvg-logo="https://i.postimg.cc/VLvBqmHS/vh1-megahits.png" group-title="VARIEDADES",VAR | VH1 MEGAHITS HD (AR)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2144
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner Channel" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="SD LATINOS",SD | Warner Channel
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2076
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="VAR | Warner Channel FHD (CO)" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="VARIEDADES",VAR | Warner Channel FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2074
+#EXTINF:-1 tvg-id="" tvg-name="SD | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="SD LATINOS",SD | Warner Channel.
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2075
+
