@@ -105,14 +105,6 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/4942
 #EXTINF:-1 group-title="HBO",CINEMA: HBO XTREME HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12011
 
-
-#EXTINF:-1 tvg-id="directv.cl-562_0" tvg-name="CINE | UNIVERSAL CINEMA FHD" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CINEMA FHD (MX)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2253
-#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINE | UNIVERSAL COMEDY FHD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR COMEDY FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5149
-#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINE | UNIVERSAL PREMIERE FHD" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR HITS FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2250
-
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL : A+ 
 http://ui.mrzutv.net:8080/spiderman/spiderman/38770
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL : AZTECA 7 HD 720
