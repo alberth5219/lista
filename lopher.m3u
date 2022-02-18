@@ -132,132 +132,131 @@ http://45.160.73.129:8888/play/a04r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
 http://161.132.107.29:8000/play/a0hr/index.m3u8
 
-#EXTINF:-1,CINEMA: AMC HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : A+ 
+http://ui.mrzutv.net:8080/spiderman/spiderman/38770
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : AZTECA 7 HD 720
+http://ui.mrzutv.net:8080/spiderman/spiderman/219
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO : AZTECA UNO HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/220
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO:  ESTRELLAS HD-
+http://ui.mrzutv.net:8080/spiderman/spiderman/11061
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO:  LAS ESTRELLAS
+http://ui.mrzutv.net:8080/spiderman/spiderman/40970
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: CANAL 5 HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/106
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: CANAL 5 HD 1080
+http://ui.mrzutv.net:8080/spiderman/spiderman/64216
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: CANAL 5 MX SD
+http://ui.mrzutv.net:8080/spiderman/spiderman/40969
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: ESTRELLAS HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/1563
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11863
-#EXTINF:-1,CINEMA: AMC SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16624
-#EXTINF:-1,CINEMA: AMC TP MX
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/62
-#EXTINF:-1,CINEMA: AXN HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AXN HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11865
-#EXTINF:-1,CINEMA: CINE CANAL SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINE CANAL SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16641
-#EXTINF:-1,CINEMA: CINE LATINO SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINE LATINO SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16640
-#EXTINF:-1,CINEMA: CINECANAL HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINECANAL HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/65838
-#EXTINF:-1,CINEMA: CINEMAX SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CINEMAX SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16642
-#EXTINF:-1,CINEMA: CLARO CINEMA SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: CLARO CINEMA SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16644
-#EXTINF:-1,CINEMA: DE PELICULA PLUS
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: DE PELICULA PLUS
 http://ui.mrzutv.net:8080/spiderman/spiderman/97
-#EXTINF:-1,CINEMA: DE PELICULA TP MX
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: DE PELICULA TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/77
-#EXTINF:-1,CINEMA: FOX COMEDY  TP MX
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: FOX COMEDY  TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/84
-#EXTINF:-1,CINEMA: GOLDEL PLUS
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEL PLUS
 http://ui.mrzutv.net:8080/spiderman/spiderman/26243
-#EXTINF:-1,CINEMA: Golden EDGE
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: Golden EDGE
 http://ui.mrzutv.net:8080/spiderman/spiderman/26242
-#EXTINF:-1,CINEMA: GOLDEN EDGE
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEN EDGE
 http://ui.mrzutv.net:8080/spiderman/spiderman/62984
-#EXTINF:-1,CINEMA: GOLDEN PREMIER 1
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEN PREMIER 1
 http://ui.mrzutv.net:8080/spiderman/spiderman/78
-#EXTINF:-1,CINEMA: GOLDEN SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEN SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16682
-#EXTINF:-1,CINEMA: HBO 1  SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 1  SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16685
-#EXTINF:-1,CINEMA: HBO 1 HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 1 HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/11989
-#EXTINF:-1,CINEMA: HBO 2 HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 2 HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11993
-#EXTINF:-1,CINEMA: HBO 2 SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO 2 SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16688
-#EXTINF:-1,CINEMA: HBO Family HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Family HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/11988
-#EXTINF:-1,CINEMA: HBO Family SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Family SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16686
-#EXTINF:-1,CINEMA: HBO MUNDI
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO MUNDI
 http://ui.mrzutv.net:8080/spiderman/spiderman/20422
-#EXTINF:-1,CINEMA: HBO Plus HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Plus HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/11991
-#EXTINF:-1,CINEMA: HBO Plus SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Plus SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16687
-#EXTINF:-1,CINEMA: HBO POP HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO POP HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/8102
-#EXTINF:-1,CINEMA: HBO SIGNATURE HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO SIGNATURE HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/5722
-#EXTINF:-1,CINEMA: HBO XTREAME SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO XTREAME SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16697
-#EXTINF:-1,CINEMA: HBO Xtreme HD
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO Xtreme HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/4942
-#EXTINF:-1,CINEMA: HBO XTREME HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: HBO XTREME HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12011
-#EXTINF:-1,CINEMA: MULTIPREMIER SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: MULTIPREMIER SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16700
-#EXTINF:-1,CINEMA: Paramount HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: Paramount HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/30792
-#EXTINF:-1,CINEMA: PARAMOUNT NETWORK TP MX
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: PARAMOUNT NETWORK TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/67
-#EXTINF:-1,CINEMA: PARAMOUNT SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: PARAMOUNT SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16708
-#EXTINF:-1,CINEMA: SPACE HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: SPACE HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12034
-#EXTINF:-1,CINEMA: SPACE SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: SPACE SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16710
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12039
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16711
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL TP MX
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/58
 #EXTINF:-1,CINEMA: TCM SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16715
-#EXTINF:-1,CINEMA: TNT HD MX
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT HD MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/59
-#EXTINF:-1,CINEMA: TNT HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12048
-#EXTINF:-1,CINEMA: TNT SD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16717
-#EXTINF:-1,SERIE: WARNER CHANNEL HD TP MX*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",SERIE: WARNER CHANNEL HD TP MX*
 http://ui.mrzutv.net:8080/spiderman/spiderman/72
-#EXTINF:-1,SERIE: WARNER HD*
+#EXTINF:-1 group-title="TV ENTRETENIMIENTO",SERIE: WARNER HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12070
-#EXTINF:-1,USA | HGTV HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/67574
 
-#EXTINF:-1,MEXICO : A+ 
-http://ui.mrzutv.net:8080/spiderman/spiderman/38770
-#EXTINF:-1,MEXICO : AZTECA 7 HD 720
-http://ui.mrzutv.net:8080/spiderman/spiderman/219
-#EXTINF:-1,MEXICO : AZTECA UNO HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/220
-#EXTINF:-1,MEXICO:  ESTRELLAS HD-
-http://ui.mrzutv.net:8080/spiderman/spiderman/11061
-#EXTINF:-1,MEXICO:  LAS ESTRELLAS
-http://ui.mrzutv.net:8080/spiderman/spiderman/40970
-#EXTINF:-1,MEXICO: CANAL 5 HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/106
-#EXTINF:-1,MEXICO: CANAL 5 HD 1080
-http://ui.mrzutv.net:8080/spiderman/spiderman/64216
-#EXTINF:-1,MEXICO: CANAL 5 MX SD
-http://ui.mrzutv.net:8080/spiderman/spiderman/40969
-#EXTINF:-1,MEXICO: ESTRELLAS HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/1563
-#EXTINF:-1,DP: FOX SPORTS 1 HD [MX]
+
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 1 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/383
-#EXTINF:-1,DP: FOX SPORTS 1 SD [*]
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 1 SD [*]
 http://ui.mrzutv.net:8080/spiderman/spiderman/16681
-#EXTINF:-1,DP: FOX SPORTS 2 HD [*]
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 2 HD [*]
 http://ui.mrzutv.net:8080/spiderman/spiderman/20675
-#EXTINF:-1,DP: FOX SPORTS 2 HD [MX]
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 2 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/384
-#EXTINF:-1,DP: FOX SPORTS 2 SD [*]
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 2 SD [*]
 http://ui.mrzutv.net:8080/spiderman/spiderman/16669
-#EXTINF:-1,DP: FOX SPORTS 3 HD [*]
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 3 HD [*]
 http://ui.mrzutv.net:8080/spiderman/spiderman/16680
-#EXTINF:-1,DP: FOX SPORTS 3 HD [MX]
+#EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 3 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/385
-#EXTINF:-1,TUDN MEXICO HD
+#EXTINF:-1 group-title="TV DEPORTE",TUDN MEXICO HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/69356
