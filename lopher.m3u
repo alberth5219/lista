@@ -117,7 +117,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5127
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2254
 #EXTINF:-1 tvg-id="directv.cl-562_0" tvg-name="CINE | STAR CINEMA FHD (MX)" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CINEMA FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2253
-#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="SD | STAR CLASSICS" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title=""UNIVERSAL CHANEL",UNIVERSAL  | STAR CLASSICS
+#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="SD | STAR CLASSICS" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CLASSICS
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5126
 #EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="CINE | STAR CLASSICS HD (CO)" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CLASSICS HD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2256
@@ -209,7 +209,7 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/12034
 http://ui.mrzutv.net:8080/spiderman/spiderman/12039
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: STUDIO UNIVERSAL TP MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/58
-#EXTINF:-1,CINEMA: TCM SD*
+#EXTINF:-1, group-title="TV ENTRETENIMIENTO",CINEMA: TCM SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16715
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: TNT HD MX
 http://ui.mrzutv.net:8080/spiderman/spiderman/59
