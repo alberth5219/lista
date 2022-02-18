@@ -161,7 +161,6 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/62984
 http://ui.mrzutv.net:8080/spiderman/spiderman/78
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: GOLDEN SD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/16682
-
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: Paramount HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/30792
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: PARAMOUNT NETWORK TP MX
@@ -180,6 +179,301 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/59
 http://ui.mrzutv.net:8080/spiderman/spiderman/72
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: WARNER HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12070
+#EXTINF:-1 tvg-id="directv.cl-562_0" tvg-name="CINEMA | UNIVERSAL CINEMA FHD" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="TV ENTRETENIMIENTO",UNIVERSAL  | STAR CINEMA FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2253
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINEMA | UNIVERSAL COMEDY FHD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="TV ENTRETENIMIENTO",UNIVERSAL  | STAR COMEDY FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5149
+#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINEMA | UNIVERSAL PREMIERE FHD" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="TV ENTRETENIMIENTO",UNIVERSAL  | STAR HITS FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2250
+
+#EXTINF:-1 tvg-id="EPG123.75278.schedulesdirect.org" tvg-name="MX - ADN40 | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ABN-40-1.png" group-title="AM | MEXICO",MX - ADN40 | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140167
+#EXTINF:-1 tvg-id="EPG123.89542.schedulesdirect.org" tvg-name="MX - BBC WORLD NEWS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/BBC.png" group-title="AM | MEXICO",MX - BBC WORLD NEWS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140187
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="MX - ANTENA3 | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/antena3-1.png" group-title="AM | MEXICO",MX - ANTENA3 | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140172
+#EXTINF:-1 tvg-id="" tvg-name="MX - A PLUS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/a-+.png" group-title="AM | MEXICO",MX - A PLUS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140166
+#EXTINF:-1 tvg-id="" tvg-name="MX - CADENA H | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CADENA-H.png" group-title="AM | MEXICO",MX - CADENA H | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140189
+#EXTINF:-1 tvg-id="" tvg-name="MX - CADEND TV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CADENA-TV.png" group-title="AM | MEXICO",MX - CADEND TV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140190
+#EXTINF:-1 tvg-id="" tvg-name="MX - CNN INTERNATIONAL | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CNN_International.png" group-title="AM | MEXICO",MX - CNN INTERNATIONAL | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140235
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX - CNN | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CNN_International.png" group-title="AM | MEXICO",MX - CNN | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140236
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="﻿MX - ANTENA 3 | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ANTENNA3.png" group-title="AM | MEXICO",﻿MX - ANTENA 3 | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140251
+#EXTINF:-1 tvg-id="EPG123.27741.schedulesdirect.org" tvg-name="MX - EUROPA EUROPA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Europaeuropa.png" group-title="AM | MEXICO",MX - EUROPA EUROPA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140261
+#EXTINF:-1 tvg-id="" tvg-name="MX - FRANCIA 24 | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FRANC24.png" group-title="AM | MEXICO",MX - FRANCIA 24 | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140284
+#EXTINF:-1 tvg-id="" tvg-name="MX - TV5 FRANCIA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FRANC24.png" group-title="AM | MEXICO",MX - TV5 FRANCIA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140353
+#EXTINF:-1 tvg-id="" tvg-name="MX - AL JAZEERA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Al-Jazeera.png" group-title="AM | MEXICO",MX - AL JAZEERA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140169
+#EXTINF:-1 tvg-id="" tvg-name="##### MX - AZETCA #####" tvg-logo="http://logo.panel.cx/logo/AMERICA/Mexico/Mexico.png" group-title="AM | MEXICO",##### MX - AZETCA #####
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276453
+#EXTINF:-1 tvg-id="" tvg-name="MX - AFORE AZTECA | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AFOREAZTECA.png" group-title="AM | MEXICO",MX - AFORE AZTECA | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140168
+#EXTINF:-1 tvg-id="" tvg-name="MX - TP AZTECA UNO | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TPAZTECA.png" group-title="AM | MEXICO",MX - TP AZTECA UNO | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140346
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX - AZTECA 7 | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/azteca7-1.png" group-title="AM | MEXICO",MX - AZTECA 7 | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140178
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX - AZTECA CLICK | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZCLC.png" group-title="AM | MEXICO",MX - AZTECA CLICK | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140179
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX - AZTECA CORAZON | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/_Azteca_Coraz%C3%B3n.png" group-title="AM | MEXICO",MX - AZTECA CORAZON | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140180
+#EXTINF:-1 tvg-id="" tvg-name="MX - AZTECA DEPORTES | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZSINCOPY.png" group-title="AM | MEXICO",MX - AZTECA DEPORTES | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140181
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX - AZTECA MUNDO | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-MUNDO.png" group-title="AM | MEXICO",MX - AZTECA MUNDO | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140182
+#EXTINF:-1 tvg-id="" tvg-name="MX - AZTECA UNO B1 | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/azteca7-1.png" group-title="AM | MEXICO",MX - AZTECA UNO B1 | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140183
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX - AZ CINEMA | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-CINEMA.png" group-title="AM | MEXICO",MX - AZ CINEMA | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140174
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX - AZ CLIC B1 | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-CLIC-1.png" group-title="AM | MEXICO",MX - AZ CLIC B1 | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140175
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX - AZ CORAZON | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/azteca-corazon-1.png" group-title="AM | MEXICO",MX - AZ CORAZON | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140176
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX - AZ MUNDO | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-MUNDO.png" group-title="AM | MEXICO",MX - AZ MUNDO | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140177
+#EXTINF:-1 tvg-id="" tvg-name="##### MX - CANAL #####" tvg-logo="http://logo.panel.cx/logo/AMERICA/Mexico/Mexico.png" group-title="AM | MEXICO",##### MX - CANAL #####
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276454
+#EXTINF:-1 tvg-id="" tvg-name="MX - CANAL ONCE | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-Once.png" group-title="AM | MEXICO",MX - CANAL ONCE | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140198
+#EXTINF:-1 tvg-id="" tvg-name="MX - CANAL DE LAS ESTRELLAS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Las_Estrellas.png" group-title="AM | MEXICO",MX - CANAL DE LAS ESTRELLAS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140196
+#EXTINF:-1 tvg-id="" tvg-name="MX - CANAL JUDICIAL | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal_JUDICIAL.png" group-title="AM | MEXICO",MX - CANAL JUDICIAL | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140197
+#EXTINF:-1 tvg-id="" tvg-name="MX - TP CANAL ONCE | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CANALONCE.png" group-title="AM | MEXICO",MX - TP CANAL ONCE | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140349
+#EXTINF:-1 tvg-id="" tvg-name="##### MX - ENTRETENIMIENTO #####" tvg-logo="http://logo.panel.cx/logo/AMERICA/Mexico/Mexico.png" group-title="AM | MEXICO",##### MX - ENTRETENIMIENTO #####
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276451
+#EXTINF:-1 tvg-id="EPG123.74574.schedulesdirect.org" tvg-name="MX - FOX ACTION | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FoX.png" group-title="AM | MEXICO",MX - FOX ACTION | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140268
+#EXTINF:-1 tvg-id="EPG123.71662.schedulesdirect.org" tvg-name="MX - FOX CINEMA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FoX.png" group-title="AM | MEXICO",MX - FOX CINEMA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140270
+#EXTINF:-1 tvg-id="EPG123.44028.schedulesdirect.org" tvg-name="MX - FOX CLASSICS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Foxclassic.png" group-title="AM | MEXICO",MX - FOX CLASSICS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140271
+#EXTINF:-1 tvg-id="EPG123.49263.schedulesdirect.org" tvg-name="MX - FOX LIFE | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Fox_life.png" group-title="AM | MEXICO",MX - FOX LIFE | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140272
+#EXTINF:-1 tvg-id="EPG123.49263.schedulesdirect.org" tvg-name="MX - FOX LIFE | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Fox_life.png" group-title="AM | MEXICO",MX - FOX LIFE | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140273
+#EXTINF:-1 tvg-id="EPG123.58833.schedulesdirect.org" tvg-name="MX - FOX MOVIES | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOXMOVIES.png" group-title="AM | MEXICO",MX - FOX MOVIES | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140274
+#EXTINF:-1 tvg-id="Canal Fox News" tvg-name="MX - FOX NEWS | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOXNEWSCHANNEL.png" group-title="AM | MEXICO",MX - FOX NEWS | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140275
+#EXTINF:-1 tvg-id="" tvg-name="MX - FOX SERIES | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/STARSERIES.png" group-title="AM | MEXICO",MX - FOX SERIES | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140276
+#EXTINF:-1 tvg-id="Canal FX" tvg-name="MX - FX | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FX.png" group-title="AM | MEXICO",MX - FX | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140285
+#EXTINF:-1 tvg-id="EPG123.14988.schedulesdirect.org" tvg-name="MX - FXM | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FXM.png" group-title="AM | MEXICO",MX - FXM | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140286
+#EXTINF:-1 tvg-id="Canal Las Estrellas Latinoamérica" tvg-name="MX - LAS ESTRELLAS | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/LASESTRELLAS.png" group-title="AM | MEXICO",MX - LAS ESTRELLAS | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140298
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MX - AMC | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AMC.png" group-title="AM | MEXICO",MX - AMC | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140170
+#EXTINF:-1 tvg-id="" tvg-name="MX - A3 SERIES | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/a3s.png" group-title="AM | MEXICO",MX - A3 SERIES | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140252
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MX - A&E | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AE.png" group-title="AM | MEXICO",MX - A&E | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140253
+#EXTINF:-1 tvg-id="Canal E! Entertainment Television (Latinoamérica)" tvg-name="MX - E! | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/E.png" group-title="AM | MEXICO",MX - E! | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140254
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="MX - CINECANAL | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/cienecanal.png" group-title="AM | MEXICO",MX - CINECANAL | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140234
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="MX - COMEDY CENTRAL | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Comedy_Central.png" group-title="AM | MEXICO",MX - COMEDY CENTRAL | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140237
+#EXTINF:-1 tvg-id="EPG123.74016.schedulesdirect.org" tvg-name="MX - DE PELICULA PLUS | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/DPel%20cula_Plus.png" group-title="AM | MEXICO",MX - DE PELICULA PLUS | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140238
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX - DISTRITO COMEDIA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/DistritoComediaL.png" group-title="AM | MEXICO",MX - DISTRITO COMEDIA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140249
+#EXTINF:-1 tvg-id="" tvg-name="MX - EL GOURMET | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Elgourmet.png" group-title="AM | MEXICO",MX - EL GOURMET | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140255
+#EXTINF:-1 tvg-id="Canal Excelsior TV" tvg-name="MX - EXCELSIOR TV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/excelsioR.png" group-title="AM | MEXICO",MX - EXCELSIOR TV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140262
+#EXTINF:-1 tvg-id="Canal Film & Arts" tvg-name="MX - FILM & ARTS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FILMANDARTS.png" group-title="AM | MEXICO",MX - FILM & ARTS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140263
+#EXTINF:-1 tvg-id="" tvg-name="MX - FOOD NETWORK | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOODNETWORK.png" group-title="AM | MEXICO",MX - FOOD NETWORK | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140264
+#EXTINF:-1 tvg-id="EPG123.72313.schedulesdirect.org" tvg-name="MX - FORO TV | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOROTV.png" group-title="AM | MEXICO",MX - FORO TV | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140267
+#EXTINF:-1 tvg-id="EPG123.24459.schedulesdirect.org" tvg-name="MX - GLITZ | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/GLITZ.png" group-title="AM | MEXICO",MX - GLITZ | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140288
+#EXTINF:-1 tvg-id="Canal Golden Edge" tvg-name="MX - GOLDEN EDGE | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/GOLDEN.png" group-title="AM | MEXICO",MX - GOLDEN EDGE | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140289
+#EXTINF:-1 tvg-id="Canal Golden Plus" tvg-name="MX - GOLDEN PLUS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/GOLDEN.png" group-title="AM | MEXICO",MX - GOLDEN PLUS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140290
+#EXTINF:-1 tvg-id="Canal Golden" tvg-name="MX - GOLDEN | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/GOLDEN.png" group-title="AM | MEXICO",MX - GOLDEN | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140291
+#EXTINF:-1 tvg-id="EPG123.10145.schedulesdirect.org" tvg-name="MX - HLN | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/HLN.png" group-title="AM | MEXICO",MX - HLN | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140293
+#EXTINF:-1 tvg-id="EPG123.62161.schedulesdirect.org" tvg-name="MX - HOLA TV | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/HOLATV.png" group-title="AM | MEXICO",MX - HOLA TV | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140294
+#EXTINF:-1 tvg-id="EPG123.87915.schedulesdirect.org" tvg-name="MX - INGENIO TV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/INGENIO.png" group-title="AM | MEXICO",MX - INGENIO TV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140295
+#EXTINF:-1 tvg-id="EPG123.42795.schedulesdirect.org" tvg-name="MX - ITV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ITV.png" group-title="AM | MEXICO",MX - ITV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140296
+#EXTINF:-1 tvg-id="Canal Las Estrellas Latinoamérica" tvg-name="MX - LAS ESTRELLAS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/LASESTRELLAS.png" group-title="AM | MEXICO",MX - LAS ESTRELLAS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140297
+#EXTINF:-1 tvg-id="Canal Lifetime Latinoamérica" tvg-name="MX - LIFETIME | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/LIFETIME.png" group-title="AM | MEXICO",MX - LIFETIME | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140299
+#EXTINF:-1 tvg-id="EPG123.17457.schedulesdirect.org" tvg-name="MX - MAS CHIC | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MASCHIC.png" group-title="AM | MEXICO",MX - MAS CHIC | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140300
+#EXTINF:-1 tvg-id="EPG123.61719.schedulesdirect.org" tvg-name="MX - MILENIO TV | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MILENIO.png" group-title="AM | MEXICO",MX - MILENIO TV | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140302
+#EXTINF:-1 tvg-id="Canal Multimedios Plus" tvg-name="MX - MULTIMEDIOS PLUS | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MULTIMEDIOS.png" group-title="AM | MEXICO",MX - MULTIMEDIOS PLUS | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140306
+#EXTINF:-1 tvg-id="" tvg-name="MX - MULTIMEDIOS | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MULTIMEDIOS.png" group-title="AM | MEXICO",MX - MULTIMEDIOS | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140307
+#EXTINF:-1 tvg-id="" tvg-name="MX - NTN24 | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NTN24.png" group-title="AM | MEXICO",MX - NTN24 | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140319
+#EXTINF:-1 tvg-id="" tvg-name="MX - NU9VE TV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NU9VETV.png" group-title="AM | MEXICO",MX - NU9VE TV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140320
+#EXTINF:-1 tvg-id="" tvg-name="MX - NU9VE TV | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NU9VETV.png" group-title="AM | MEXICO",MX - NU9VE TV | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140321
+#EXTINF:-1 tvg-id="" tvg-name="MX - Q TV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/QTV.png" group-title="AM | MEXICO",MX - Q TV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140324
+#EXTINF:-1 tvg-id="" tvg-name="MX - RMS | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/RMC.png" group-title="AM | MEXICO",MX - RMS | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140325
+#EXTINF:-1 tvg-id="Canal I.Sat" tvg-name="MX - SAT | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ISAT.png" group-title="AM | MEXICO",MX - SAT | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140326
+#EXTINF:-1 tvg-id="" tvg-name="MX - SENDERO | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/SENDERO.png" group-title="AM | MEXICO",MX - SENDERO | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140327
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="MX - SONY | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/SONY.png" group-title="AM | MEXICO",MX - SONY | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140328
+#EXTINF:-1 tvg-id="EPG123.66349.schedulesdirect.org" tvg-name="MX - SPACE | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/SPACECHANNEL.png" group-title="AM | MEXICO",MX - SPACE | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140329
+#EXTINF:-1 tvg-id="Canal Star TVE HD" tvg-name="MX - STAR TVE | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/STARTVE.png" group-title="AM | MEXICO",MX - STAR TVE | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140330
+#EXTINF:-1 tvg-id="Canal Studio Universal" tvg-name="MX - STUDIO UNIVERSAL | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/STUDIOUNIVERSAL.png" group-title="AM | MEXICO",MX - STUDIO UNIVERSAL | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140331
+#EXTINF:-1 tvg-id="Canal SundanceTV Latinoamérica" tvg-name="MX - SUNDANCE TV | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/SUNDANCETV.png" group-title="AM | MEXICO",MX - SUNDANCE TV | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140332
+#EXTINF:-1 tvg-id="EPG123.11097.schedulesdirect.org" tvg-name="MX - SYFY | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/SYFY.png" group-title="AM | MEXICO",MX - SYFY | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140333
+#EXTINF:-1 tvg-id="Canal TBS veryfunny Latinoamérica" tvg-name="MX - TBS | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TBS.png" group-title="AM | MEXICO",MX - TBS | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140334
+#EXTINF:-1 tvg-id="EPG123.19246.schedulesdirect.org" tvg-name="MX - TCM | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TCM.png" group-title="AM | MEXICO",MX - TCM | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140335
+#EXTINF:-1 tvg-id="Canal Telehit" tvg-name="MX - TELEHIT | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TELEHIT.png" group-title="AM | MEXICO",MX - TELEHIT | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140337
+#EXTINF:-1 tvg-id="" tvg-name="MX - TELERITMO | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/teleritmo.png" group-title="AM | MEXICO",MX - TELERITMO | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140338
+#EXTINF:-1 tvg-id="" tvg-name="MX - TELEVISA PUEBLO | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TELEVISA.png" group-title="AM | MEXICO",MX - TELEVISA PUEBLO | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140339
+#EXTINF:-1 tvg-id="" tvg-name="MX - TELEVISA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TELEVISA.png" group-title="AM | MEXICO",MX - TELEVISA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140340
+#EXTINF:-1 tvg-id="EPG123.74420.schedulesdirect.org" tvg-name="MX - TLC | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TLC.png" group-title="AM | MEXICO",MX - TLC | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140341
+#EXTINF:-1 tvg-id="" tvg-name="MX - TLR | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TLR.png" group-title="AM | MEXICO",MX - TLR | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140342
+#EXTINF:-1 tvg-id="EPG123.106709.schedulesdirect.org" tvg-name="MX - TNT SERIES | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TNT.png" group-title="AM | MEXICO",MX - TNT SERIES | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140343
+#EXTINF:-1 tvg-id="EPG123.19384.schedulesdirect.org" tvg-name="MX - TNT | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TNT.png" group-title="AM | MEXICO",MX - TNT | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140344
+#EXTINF:-1 tvg-id="EPG123.10153.schedulesdirect.org" tvg-name="MX - TRU TV | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TRUTV.png" group-title="AM | MEXICO",MX - TRU TV | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140350
+#EXTINF:-1 tvg-id="EPG123.10153.schedulesdirect.org" tvg-name="MX - TRU TV | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TRUTV.png" group-title="AM | MEXICO",MX - TRU TV | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140351
+#EXTINF:-1 tvg-id="" tvg-name="MX - TV MAS | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/tv-mas.png" group-title="AM | MEXICO",MX - TV MAS | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140352
+#EXTINF:-1 tvg-id="EPG123.16292.schedulesdirect.org" tvg-name="MX - TVC | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TVC.png" group-title="AM | MEXICO",MX - TVC | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140354
+#EXTINF:-1 tvg-id="EPG123.60855.schedulesdirect.org" tvg-name="MX - TVCD | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TVCD.png" group-title="AM | MEXICO",MX - TVCD | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140355
+#EXTINF:-1 tvg-id="EPG123.16217.schedulesdirect.org" tvg-name="MX - TVE | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TVE.png" group-title="AM | MEXICO",MX - TVE | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140356
+#EXTINF:-1 tvg-id="" tvg-name="MX - TVO | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TVO.png" group-title="AM | MEXICO",MX - TVO | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140357
+#EXTINF:-1 tvg-id="" tvg-name="MX - VTV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/VTV.png" group-title="AM | MEXICO",MX - VTV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140362
+#EXTINF:-1 tvg-id="EPG123.59014.schedulesdirect.org" tvg-name="MX - WOBI | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/WOBI.png" group-title="AM | MEXICO",MX - WOBI | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140364
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX - BANDAMAX | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Bandamax.png" group-title="AM | MEXICO",MX - BANDAMAX | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140186
+#EXTINF:-1 tvg-id="" tvg-name="MX - SKY ONE" tvg-logo="http://logo.panel.cx/logo/EUROPE/GERMANY/SKY1HD.png" group-title="AM | MEXICO",MX - SKY ONE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276398
+#EXTINF:-1 tvg-id="" tvg-name="##### MX - DOCUMENTAL #####" tvg-logo="http://logo.panel.cx/logo/AMERICA/Mexico/Mexico.png" group-title="AM | MEXICO",##### MX - DOCUMENTAL #####
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276452
+#EXTINF:-1 tvg-id="EPG123.66491.schedulesdirect.org" tvg-name="MX - NAT GEO | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NATIONAL%20GEOGRAPHIC.png" group-title="AM | MEXICO",MX - NAT GEO | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140311
+#EXTINF:-1 tvg-id="Canal National Geographic (España)" tvg-name="MX - NATIONAL GEOGRAPHIC | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NATIONAL%20GEOGRAPHIC.png" group-title="AM | MEXICO",MX - NATIONAL GEOGRAPHIC | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140312
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX - ANIMAL PLANET | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Animal_Planet.png" group-title="AM | MEXICO",MX - ANIMAL PLANET | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140171
+#EXTINF:-1 tvg-id="EPG123.66491.schedulesdirect.org" tvg-name="MX - NAT GEO WILD | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NATGEOWILD.png" group-title="AM | MEXICO",MX - NAT GEO WILD | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140310
+#EXTINF:-1 tvg-id="Canal Nat Geo Kids" tvg-name="MX - NAT GEO KIDS | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NATGEOKIDS.png" group-title="AM | MEXICO",MX - NAT GEO KIDS | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140308
+#EXTINF:-1 tvg-id="" tvg-name="MX - NAT GEO LA | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NATGEOMUNDO.png" group-title="AM | MEXICO",MX - NAT GEO LA | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140309
+#EXTINF:-1 tvg-id="Canal Discovery Channel (México)" tvg-name="MX - DISCOVERY CHANNEL | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/discovery.png" group-title="AM | MEXICO",MX - DISCOVERY CHANNEL | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140239
+#EXTINF:-1 tvg-id="Canal Discovery Home & Health (México)" tvg-name="MX - DISCOVERY H&H | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/discovery-home-and-health.png" group-title="AM | MEXICO",MX - DISCOVERY H&H | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140240
+#EXTINF:-1 tvg-id="Canal Discovery Theater (Latinoamérica)" tvg-name="MX - DISCOVERY THEATER | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/discovery-theater.png" group-title="AM | MEXICO",MX - DISCOVERY THEATER | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140243
+#EXTINF:-1 tvg-id="" tvg-name="MX - Discovery TLC | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TLC.png" group-title="AM | MEXICO",MX - Discovery TLC | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140244
+#EXTINF:-1 tvg-id="Canal Discovery World Latinoamérica" tvg-name="MX - DISCOVERY WORLD | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/discovery-world-discovery.png" group-title="AM | MEXICO",MX - DISCOVERY WORLD | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140245
+#EXTINF:-1 tvg-id="EPG123.91029.schedulesdirect.org" tvg-name="MX - PARAMOUNT CHANNEL | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/PARAMOUNT.png" group-title="AM | MEXICO",MX - PARAMOUNT CHANNEL | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140322
+#EXTINF:-1 tvg-id="Canal History (México)" tvg-name="MX - HISTORY | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/HISTORY.png" group-title="AM | MEXICO",MX - HISTORY | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140292
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="MX - DW | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Deutsche_Welle.png" group-title="AM | MEXICO",MX - DW | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140250
+#EXTINF:-1 tvg-id="EPG123.84425.schedulesdirect.org" tvg-name="MX - UNICABLE | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/UNICable.png" group-title="AM | MEXICO",MX - UNICABLE | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140358
+#EXTINF:-1 tvg-id="" tvg-name="MX - UNIVERSAL | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/UNIVERSAL.png" group-title="AM | MEXICO",MX - UNIVERSAL | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140359
+#EXTINF:-1 tvg-id="" tvg-name="MX - GARAGE TV | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/garage-tv-garage.png" group-title="AM | MEXICO",MX - GARAGE TV | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140287
+#EXTINF:-1 tvg-id="" tvg-name="##### MX - MÚSICA #####" tvg-logo="http://logo.panel.cx/logo/AMERICA/Mexico/Mexico.png" group-title="AM | MEXICO",##### MX - MÚSICA #####
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276450
+#EXTINF:-1 tvg-id="" tvg-name="MX - MTV AHORA | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MTV.png" group-title="AM | MEXICO",MX - MTV AHORA | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140303
+#EXTINF:-1 tvg-id="EPG123.66419.schedulesdirect.org" tvg-name="MX - MTV LIVE | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MTV.png" group-title="AM | MEXICO",MX - MTV LIVE | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140304
+#EXTINF:-1 tvg-id="EPG123.60964.schedulesdirect.org" tvg-name="MX - MTV | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/MTV.png" group-title="AM | MEXICO",MX - MTV | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140305
+#EXTINF:-1 tvg-id="EPG123.42567.schedulesdirect.org" tvg-name="MX - VH1 | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/VH1.png" group-title="AM | MEXICO",MX - VH1 | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140361
+#EXTINF:-1 tvg-id="EPG123.90325.schedulesdirect.org" tvg-name="MX - VH1 CLASSIC | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/VH1.png" group-title="AM | MEXICO",MX - VH1 CLASSIC | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140360
+#EXTINF:-1 tvg-id="" tvg-name="##### MX - NIÑAS #####" tvg-logo="http://logo.panel.cx/logo/AMERICA/Mexico/Mexico.png" group-title="AM | MEXICO",##### MX - NIÑAS #####
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/276448
+#EXTINF:-1 tvg-id="" tvg-name="MX - BABY FIRST | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/babyfirst.png" group-title="AM | MEXICO",MX - BABY FIRST | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140184
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="MX - BABY TV | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/BabyTV.png" group-title="AM | MEXICO",MX - BABY TV | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140185
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="MX - BLOOMBERG | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Bloomberg.png" group-title="AM | MEXICO",MX - BLOOMBERG | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140188
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="MX - CARTOON NETWORK | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CARTOON_NETWORK.png" group-title="AM | MEXICO",MX - CARTOON NETWORK | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140233
+#EXTINF:-1 tvg-id="Canal Discovery Kids (México)" tvg-name="MX - DISCOVERY KIDS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Discovery_kids.png" group-title="AM | MEXICO",MX - DISCOVERY KIDS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140242
+#EXTINF:-1 tvg-id="" tvg-name="MX - DISNEY JR | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/disney-junior.png" group-title="AM | MEXICO",MX - DISNEY JR | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140247
+#EXTINF:-1 tvg-id="" tvg-name="MX - DISNEY XD | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Disney_XD.png" group-title="AM | MEXICO",MX - DISNEY XD | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140248
+#EXTINF:-1 tvg-id="" tvg-name="MX - DISNEY CHANNEL | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Disney.png" group-title="AM | MEXICO",MX - DISNEY CHANNEL | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140246
+#EXTINF:-1 tvg-id="" tvg-name="MX - NICK | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NICK.png" group-title="AM | MEXICO",MX - NICK | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140316
+#EXTINF:-1 tvg-id="EPG123.84412.schedulesdirect.org" tvg-name="MX - NICK 2 | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NICK2.png" group-title="AM | MEXICO",MX - NICK 2 | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140314
+#EXTINF:-1 tvg-id="EPG123.60295.schedulesdirect.org" tvg-name="MX - NICK JR | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NICKJR.png" group-title="AM | MEXICO",MX - NICK JR | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140315
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX - NICKELODEON | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NICKELODEON.png" group-title="AM | MEXICO",MX - NICKELODEON | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140317
+#EXTINF:-1 tvg-id="" tvg-name="MX - NICKTOONS | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/NICKTOONS.png" group-title="AM | MEXICO",MX - NICKTOONS | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140318
+#EXTINF:-1 tvg-id="EPG123.63109.schedulesdirect.org" tvg-name="MX - TOONCAST | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Tooncast.png" group-title="AM | MEXICO",MX - TOONCAST | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140345
+#EXTINF:-1 tvg-id="Canal Warner TV (México)" tvg-name="MX - WARNER | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/WARNER.png" group-title="AM | MEXICO",MX - WARNER | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140363
 
 
 #EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 1 HD [MX]
