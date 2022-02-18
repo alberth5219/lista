@@ -105,50 +105,13 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/4942
 #EXTINF:-1 group-title="HBO",CINEMA: HBO XTREME HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/12011
 
-#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="UNIVERSAL CHANEL" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-action_m.png" group-title="UNIVERSAL CHANEL",UNIVERSAL | STAR ACTION
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2249
-#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="CINE | STAR ACTION FHD (CO)" tvg-logo="https://i.ibb.co/f2wMzMb/descarga-10.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR ACTION FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2247
-#EXTINF:-1 tvg-id="foxpremiumaction.co" tvg-name="CINE | STAR ACTION HD (CO)" tvg-logo="https://i.ibb.co/f2wMzMb/descarga-10.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR ACTION HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2248
-#EXTINF:-1 tvg-id="" tvg-name="SD | STAR CINEMA" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CINEMA
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5127
-#EXTINF:-1 tvg-id="foxpremiumcinema.co" tvg-name="CINE | STAR CINEMA HD (CO)" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CINEMA HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2254
-#EXTINF:-1 tvg-id="directv.cl-562_0" tvg-name="CINE | STAR CINEMA FHD (MX)" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CINEMA FHD (MX)
+
+#EXTINF:-1 tvg-id="directv.cl-562_0" tvg-name="CINE | UNIVERSAL CINEMA FHD" tvg-logo="https://i.ibb.co/GFP4pkr/descarga-7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CINEMA FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2253
-#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="SD | STAR CLASSICS" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CLASSICS
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5126
-#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="CINE | STAR CLASSICS HD (CO)" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CLASSICS HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2256
-#EXTINF:-1 tvg-id="foxpremiumclassics.co" tvg-name="CINE | STAR CLASSICS FHD (CO)" tvg-logo="https://i.ibb.co/vqXQqnG/descarga-8.jpg" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR CLASSICS FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2255
-#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="SD | STAR COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-comedy_m.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR COMEDY
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2246
-#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINE | STAR COMEDY HD (CO)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR COMEDY HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5150
-#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINE | STAR COMEDY FHD (CO)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR COMEDY FHD (CO)
+#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="CINE | UNIVERSAL COMEDY FHD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarComedy_Logo2021_FondoOscuro.png.30cb3816465899bfdf52bee9e9d35407.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR COMEDY FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5149
-#EXTINF:-1 tvg-id="foxpremiumfamily.co" tvg-name="CINE | STAR FUN FHD (CO)" tvg-logo="https://i.ibb.co/WzF93Lf/descarga-8.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR FUN FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2243
-#EXTINF:-1 tvg-id="foxpremiumcomedy.co" tvg-name="SD | STAR FUN" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-family_m.png" group-title="UNIVERSAL CHANEL",UNIVERSAL | STAR FUN
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2244
-#EXTINF:-1 tvg-id="foxpremiumfamily.co" tvg-name="CINE | STAR FUN HD (CO)" tvg-logo="https://i.ibb.co/WzF93Lf/descarga-8.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR FUN HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2245
-#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="SD | STAR HITS" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-movies_m.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR HITS
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2252
-#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINE | STAR HITS FHD (CO)" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR HITS FHD (CO)
+#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINE | UNIVERSAL PREMIERE FHD" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR HITS FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2250
-#EXTINF:-1 tvg-id="foxpremiummovies.co" tvg-name="CINE | STAR HITS HD (CO)" tvg-logo="https://i.ibb.co/Ld19p1b/images-q-tbn-ANd9-Gc-Rsh-YQwpi-PXo9-WJKf-PHOOQbf-W-CRf-Nkvs-Q7-Rg-usqp-CAU.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR HITS HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2251
-#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="SD | STAR SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-1-este_m.png" group-title="UNIVERSAL CHANEL",UNIVERSAL | STAR SERIES
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2242
-#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="CINE | STAR SERIES FHD (CO)" tvg-logo="https://i.ibb.co/tBVDrdx/large-Star-Series-Logo2021-Fondo-Oscuro-png-4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR SERIES FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2239
-#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="CINE | STAR SERIES HD (CO)" tvg-logo="https://i.ibb.co/tBVDrdx/large-Star-Series-Logo2021-Fondo-Oscuro-png-4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL  | STAR SERIES HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2240
-#EXTINF:-1 tvg-id="foxpremiumserieshd.co" tvg-name="CINE | STAR SERIES SUB HD (CO)" tvg-logo="https://i.ibb.co/tBVDrdx/large-Star-Series-Logo2021-Fondo-Oscuro-png-4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="UNIVERSAL CHANEL",UNIVERSAL | STAR SERIES SUB HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2241
 
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CANAL : A+ 
 http://ui.mrzutv.net:8080/spiderman/spiderman/38770
@@ -225,6 +188,22 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/383
 http://ui.mrzutv.net:8080/spiderman/spiderman/384
 #EXTINF:-1 group-title="TV DEPORTE",DP: FOX SPORTS 3 HD [MX]
 http://ui.mrzutv.net:8080/spiderman/spiderman/385
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="FOX SPORTS 1 | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/foxsport1.png" group-title="TV DEPORTE",FOX SPORTS 1 | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140278
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="FOX SPORTS 1 | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/foxsport1.png" group-title="TV DEPORTE",FOX SPORTS 1 | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140277
+#EXTINF:-1 tvg-id="EPG123.66365.schedulesdirect.org" tvg-name="FOX SPORTS 2 | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOXSPORT2.png" group-title="TV DEPORTE",FOX SPORTS 2 | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140280
+#EXTINF:-1 tvg-id="EPG123.66365.schedulesdirect.org" tvg-name="FOX SPORTS 2 | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOXSPORT2.png" group-title="TV DEPORTE",FOX SPORTS 2 | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140279
+#EXTINF:-1 tvg-id="EPG123.47374.schedulesdirect.org" tvg-name="FOX SPORTS 3 | UHD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Fox-Sports-3.png" group-title="TV DEPORTE",FOX SPORTS 3 | UHD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140282
+#EXTINF:-1 tvg-id="EPG123.47374.schedulesdirect.org" tvg-name="FOX SPORTS 3 | SD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Fox-Sports-3.png" group-title="TV DEPORTE",FOX SPORTS 3 | SD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140281
+#EXTINF:-1 tvg-id="Canal ESPN 2 México" tvg-name="MX - ESPN 2 | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ESPN2.png" group-title="TV DEPORTE",ESPN 2 | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140258
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX - TDN | HD" tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TUDN.png" group-title="TV DEPORTE",TDN | HD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/140336
 
 #EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="VAR | A&E FHD (CO)" tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="VARIEDADES",VAR | A&E FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2077
