@@ -115,6 +115,8 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/64216
 http://ui.mrzutv.net:8080/spiderman/spiderman/40969
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",MEXICO: ESTRELLAS HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/1563
+#EXTINF:-1 tvg-id="" tvg-name="MUN | HGTV HD (MX)" tvg-logo="" group-title="TV ENTRETENIMIENTO",MUN | HGTV HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2401
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC HD*
 http://ui.mrzutv.net:8080/spiderman/spiderman/11863
 #EXTINF:-1 group-title="TV ENTRETENIMIENTO",CINEMA: AMC TP MX
