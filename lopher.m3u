@@ -1,234 +1,147 @@
 #EXTM3U
 
-#EXTINF:-1,[DEPORTE] *TNT SPORT 2 MX HBO MAX HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/69446
-#EXTINF:-1,[DEPORTE] *TNT SPORT MX HBO MAX HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/69445
-#EXTINF:-1,[SD:] CINE - AMC
+#EXTINF, IMAGEN TV HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/41049
+#EXTINF, ESTRELLAS HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/11061
+#EXTINF, CANAL 5 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/54586
+#EXTINF, ADN40 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/221
+#EXTINF, AZTECA 7 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/219
+#EXTINF, AZTECA UNO HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/220
+#EXTINF, AZ CLIC HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/11866
+#EXTINF, AZ MUNDO HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/16630
+#EXTINF,A&E HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/63
+#EXTINF, AMC HD	
 http://ui.mrzutv.net:8080/spiderman/spiderman/41505
-#EXTINF:-1,[SD:] CINE - CINE LATINO
-http://ui.mrzutv.net:8080/spiderman/spiderman/41509
-#EXTINF:-1,[SD:] CINE - CINECANAL
-http://ui.mrzutv.net:8080/spiderman/spiderman/41507
-#EXTINF:-1,[SD:] CINE - CINEMAX
-http://ui.mrzutv.net:8080/spiderman/spiderman/41506
-#EXTINF:-1,[SD:] CINE - FOX ACCION
-http://ui.mrzutv.net:8080/spiderman/spiderman/41516
-#EXTINF:-1,[SD:] CINE - FOX CINEMA
-http://ui.mrzutv.net:8080/spiderman/spiderman/41517
-#EXTINF:-1,[SD:] CINE - FOX FAMILY
-http://ui.mrzutv.net:8080/spiderman/spiderman/41017
-#EXTINF:-1,[SD:] CINE - FOX FAMYLY
-http://ui.mrzutv.net:8080/spiderman/spiderman/41519
-#EXTINF:-1,[SD:] CINE - FOX MOVIES
-http://ui.mrzutv.net:8080/spiderman/spiderman/41520
-#EXTINF:-1,[SD:] CINE - FOX SERIES
-http://ui.mrzutv.net:8080/spiderman/spiderman/41521
-#EXTINF:-1,[SD:] CINE - GOLDEN PREMIER
-http://ui.mrzutv.net:8080/spiderman/spiderman/41515
-#EXTINF:-1,[SD:] WARNER CHANNEL HD TP MX*
-http://ui.mrzutv.net:8080/spiderman/spiderman/72
-#EXTINF:-1,[SD:] CINE - HBO 1
-http://ui.mrzutv.net:8080/spiderman/spiderman/41522
-#EXTINF:-1,[SD:] CINE - HBO 2
-http://ui.mrzutv.net:8080/spiderman/spiderman/41015
-#EXTINF:-1,[SD:] CINE - HBO FAMILY
-http://ui.mrzutv.net:8080/spiderman/spiderman/41016
-#EXTINF:-1,[SD:] CINE - HBO Plus
-http://ui.mrzutv.net:8080/spiderman/spiderman/41523
-#EXTINF:-1,[SD:] CINE - HBO XTREME
-http://ui.mrzutv.net:8080/spiderman/spiderman/41018
-#EXTINF:-1,[SD:] CINE - MC
-http://ui.mrzutv.net:8080/spiderman/spiderman/41531
-#EXTINF:-1,[SD:] CINE - MULTIPREMIER
-http://ui.mrzutv.net:8080/spiderman/spiderman/41532
-#EXTINF:-1,[SD:] CINE - PARAMOOUNT
-http://ui.mrzutv.net:8080/spiderman/spiderman/41511
-#EXTINF:-1,[SD:] CINE - TNT
-http://ui.mrzutv.net:8080/spiderman/spiderman/41014
-#EXTINF:-1,[SD:] CINE -FOX CLASSICS
-http://ui.mrzutv.net:8080/spiderman/spiderman/41518
-#EXTINF:-1,[SD:] CINE -SPACE MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/41027
-
-EXTINF:-1,Wipe Out
-http://ui.mrzutv.net:8080/spiderman/spiderman/46874
-#EXTINF:-1,[CULTURA] ANIMAL PLANET HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/499
-#EXTINF:-1,[CULTURA] ANIMAL PLANET HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11868
-#EXTINF:-1,[CULTURA] ANIMAL PLANET SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16626
-#EXTINF:-1,[CULTURA] D CHANNEL HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/488
-#EXTINF:-1,[CULTURA] D Channel HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/30815
-#EXTINF:-1,[CULTURA] D CHANNEL SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16647
-#EXTINF:-1,[CULTURA] D THEATHER HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11931
-#EXTINF:-1,[CULTURA] D TURBO HD 
-http://ui.mrzutv.net:8080/spiderman/spiderman/491
-#EXTINF:-1,[CULTURA] D TURBO HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/43625
-#EXTINF:-1,[CULTURA] D TURBO SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16652
-#EXTINF:-1,[CULTURA] DISCOVERY CIVILIZATION HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/16648
-#EXTINF:-1,[CULTURA] DISCOVERY FAMILY Ñ
-http://ui.mrzutv.net:8080/spiderman/spiderman/27192
-#EXTINF:-1,[CULTURA] DISCOVERY H&H HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/12000
-#EXTINF:-1,[CULTURA] DISCOVERY H&H MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/489
-#EXTINF:-1,[CULTURA] DISCOVERY H&H SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16649
-#EXTINF:-1,[CULTURA] DISCOVERY SCIENCE 
-http://ui.mrzutv.net:8080/spiderman/spiderman/16651
-#EXTINF:-1,[CULTURA] DISCOVERY W MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/492
-#EXTINF:-1,[CULTURA] Discovery World HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/30793
-#EXTINF:-1,[CULTURA] H2 SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16684
-#EXTINF:-1,[CULTURA] HISTORY HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/25465
-#EXTINF:-1,[CULTURA] HISTORY HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11998
-#EXTINF:-1,[CULTURA] HISTORY SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16690
-#EXTINF:-1,[CULTURA] ID HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/30816
-#EXTINF:-1,[CULTURA] ID SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16692
-#EXTINF:-1,[CULTURA] NAT GEO HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/65436
-#EXTINF:-1,[CULTURA] NAT GEO HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/496
-#EXTINF:-1,[CULTURA] NAT GEO SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16704
-#EXTINF:-1,[CULTURA] NATGEO WILD HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/495
-#EXTINF:-1,[CULTURA] NATGEO WILD SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16703
-#EXTINF:-1,[CULTURA] TLC HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/26028
-#EXTINF:-1,[CULTURA] TLC SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16716
-
-#EXTINF:-1,[ENTR] COMEDY CENTRAL HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11927
-#EXTINF:-1,[ENTR] DHE HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11930
-#EXTINF:-1,[ENTR] DHE SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11929
-#EXTINF:-1,[ENTR] DISTRITO COMEDIA 720 MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/1522
-#EXTINF:-1,[ENTR] DISTRITO COMEDIA HD MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/27379
-#EXTINF:-1,[ENTR] E! HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11943
-#EXTINF:-1,[ENTR] E! SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16656
-#EXTINF:-1,[ENTR] EL GOURMET HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/64024
-#EXTINF:-1,[ENTR] EL GOURMET SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16663
-#EXTINF:-1,[ENTR] ESTRELLA TV  USA
-http://ui.mrzutv.net:8080/spiderman/spiderman/105
-#EXTINF:-1,[ENTR] Estrella TV SD
-http://ui.mrzutv.net:8080/spiderman/spiderman/40977
-#EXTINF:-1,[ENTR] EUROPA HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11951
-#EXTINF:-1,[ENTR] Film & arts HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11974
-#EXTINF:-1,[ENTR] FILM & ARTS SD *
-http://ui.mrzutv.net:8080/spiderman/spiderman/16678
-#EXTINF:-1,[ENTR] FOOD NETW MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/18050
-#EXTINF:-1,[ENTR] FOX LIFE SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16667
-#EXTINF:-1,[ENTR] GALAVISION USA
-http://ui.mrzutv.net:8080/spiderman/spiderman/25892
-#EXTINF:-1,[ENTR] GLITZ  MX
-http://ui.mrzutv.net:8080/spiderman/spiderman/1527
-#EXTINF:-1,[ENTR] HOLA !TV SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16691
-#EXTINF:-1,[ENTR] HOLA! TV HD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/11995
-#EXTINF:-1,[ENTR] LIFE TIME SD*
-http://ui.mrzutv.net:8080/spiderman/spiderman/16693
-
-
---------------------------------------------------------PELÍCULAS & SERIES---------------------------------------------------------------
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5c3f473ff180d48b86ed2c57086b8505" tvg-name="A&E" tvg-country="AR" tvg-language="Español" tvg-logo="https://static.epg.best/ar/AandE.ar.png",A&E Mundo
-http://181.191.141.4:9981/stream/channelid/1061633884?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="amc.mx" tvg-name="AMC" tvg-country="CO" tvg-language="Español" tvg-logo="http://a5.vc/Xun",AMC FHD
-http://181.191.141.4:9981/stream/channelid/169202585?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="axn.mx" tvg-name="AXN" tvg-country="CO" tvg-language="Español"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
-http://181.191.141.4:9981/stream/channelid/1753402049?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="34d15999d7aab4459424b98c7da27ba9" tvg-name="CINECANAL" tvg-country="CO" tvg-language="Español"tvg-logo="https://www.totalmedios.com/img/noticias/2018/09/5b965cd2a443c__838x390.jpg",CINE CANAL
+#EXTINF, AXN HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/11865
+#EXTINF, CINECANAL HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/65838
+#EXTINF, CINECANAL HD OP2	
 http://181.191.141.4:9981/stream/channelid/425316660?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9b89e69394748f05d98b0fbab873bc1f" tvg-name="FX" tvg-country="CO" tvg-language="Español"tvg-logo="https://www.totalmedios.com/img/noticias/2018/09/5b965cd2a443c__838x390.jpg",FX
+#EXTINF, COMEDY CENTRAL HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/25572
+#EXTINF, HGTV	
+http://181.191.141.4:9981/stream/channelid/1074479430?profile=pass
+#EXTINF,DISTRITO COMEDIA	
+http://ui.mrzutv.net:8080/spiderman/spiderman/27379
+#EXTINF, DISTRITO COMEDIA OP 2	
+http://ui.mrzutv.net:8080/spiderman/spiderman/1522
+#EXTINF, ISCOVERY CHANNEL HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/67590
+#EXTINF, ISCOVERY H&H HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/12000
+#EXTINF, DISCOVERY SCIENCE HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/67569
+#EXTINF, DISCOVERY ID HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/30816
+#EXTINF, DISCOVERY WORLD HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/30793
+#EXTINF, DISNEY CHANNEL HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/68240
+#EXTINF, DISNEY XD HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/68242
+#EXTINF, EL GOURMET HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/64024
+#EXTINF, TNT SPORT 1	
+http://ui.mrzutv.net:8080/spiderman/spiderman/69445
+#EXTINF, TNT SPORT 2	
+http://ui.mrzutv.net:8080/spiderman/spiderman/69446
+#EXTINF, ESPN 1 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/465
+#EXTINF, ESPN 2 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/466
+#EXTINF, ESPN 3 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/467
+#EXTINF, TUDN HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/69356
+#EXTINF, FOX SPORTS 1 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/383
+#EXTINF, FOX SPORTS 2 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/384
+#EXTINF, FOX SPORTS 3 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/16680
+#EXTINF, FOX HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/64
+#EXTINF, FOX LIFE HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/16667
+#EXTINF, FX HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/25584
+#EXTINF, FX HD OP 2	
 http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c65a93cd183028cd1956c6447cacbbd3" tvg-name="FILMS & ARTS" tvg-country="CO" tvg-language="Español" tvg-logo="",FILMS & ARTS
-http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="fe01e2e9a7934b40bd09dd714cf74ef9" tvg-name="FXM" tvg-country="CO" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png",FXM 
+#EXTINF, FX MOVIES HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/80
+#EXTINF, FXM HD	
 http://181.191.141.4:9981/stream/channelid/1776419326?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="7baad23afd285f1373c8b4ab582ca7b6" tvg-name="I SAT" tvg-country="CO" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",I Sat HD
-http://181.191.141.4:9981/stream/channelid/986884731?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="paramountchannel.mx" tvg-name="PARAMOUNT CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
-**************************************************************
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c954a7b5d73fb15c6e677bc744b2c45f" tvg-name="SONY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
-http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="53dcee436dbd9d365567d9d5bd5f461e" tvg-name="SPACE" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE
-http://181.191.141.4:9981/stream/channelid/1139727443?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="syfy.mx" tvg-name="SYFY" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY
-http://181.191.141.4:9981/stream/channelid/2119587575?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5a8ec48d3cd8cea1e63efd3d115bc987" tvg-name="TBS" tvg-country="CO" tvg-language="Español" tvg-logo="",TBS
-http://181.191.141.4:9981/stream/channelid/230985306?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM" tvg-country="CO" tvg-language="Español" tvg-logo="",TCM
-http://181.191.141.4:9981/stream/channelid/1490081439?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tnt.mx" tvg-name="TNT" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
-http://181.191.141.4:9981/stream/channelid/190293602?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tntseries.mx" tvg-name="TNT SERIES" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
-http://181.191.141.4:9981/stream/channelid/807153960?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="42240496ab58c6a689577a15bd117cec" tvg-name="TruTV HD" tvg-country="CO" tvg-language="Español" tvg-logo="",TruTV HD
-http://181.191.141.4:9981/stream/channelid/369370178?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="studiouniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-country="CO" tvg-language="Español" tvg-logo="",STUDIO UNIVERSAL
-http://181.191.141.4:9981/stream/channelid/750601861?profile=pass
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="warnerchannel.mx" tvg-name="WARNER CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/WARNER%20TV.png",WARNER CHANNEL
-http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
-
---------------------------------------------------------PELÍCULAS------------------------------------------------------------------------
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film.mx" tvg-name="Canal Film" tvg-country="CO" tvg-language="Español" tvg-logo="",Canal Film 01
-http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MovieMax.mx" tvg-name="MovieMax" tvg-country="CO" tvg-language="Español" tvg-logo="",MovieMax HD
-http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="OuterMax.mx" tvg-name="OuterMax" tvg-country="CO" tvg-language="Español" tvg-logo="",OuterMax HD
-http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="CO" tvg-language="Español" tvg-logo="",Canal Film 02
-http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Crackle" tvg-name="Crackle original" tvg-country="CO" tvg-language="Español" tvg-logo="",Crackle original movie
-http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="CO" tvg-language="Español" tvg-logo="",Canal Film 03
-http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="cartelerapremiere.mx" tvg-name="CARTELERA PREMIERE" tvg-country="CO" tvg-language="Español" tvg-logo="",CARTELERA PREMIERE
-http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+#EXTINF, H2 HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/16684
+#EXTINF, HISTORY HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/25465
+#EXTINF, NAT GEO HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/65436
+#EXTINF, National Geographic Wild HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/495
+#EXTINF, NICK HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/68244
+#EXTINF, NICKTOONS	
+http://ui.mrzutv.net:8080/spiderman/spiderman/416
+#EXTINF, PARAMOUNT CHANNEL HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/67
+#EXTINF, SONY HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/12032
+#EXTINF, SPACE HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/12034
+#EXTINF, STUDIO UNIVERSAL HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/12039
+#EXTINF, TNT HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/12032
+#EXTINF, TNT SERIES HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/5723
+#EXTINF, TRU TV HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/70
+#EXTINF, TLC HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/26028
+#EXTINF, UNIVERSAL TV HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/16720
+#EXTINF, WARNER HD	
+http://ui.mrzutv.net:8080/spiderman/spiderman/72
+#EXTINF, WARNER HD	OP2
+http://ui.mrzutv.net:8080/spiderman/spiderman/12070
+#EXTINF, HBO HD	
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+#EXTINF, HBO 1 HD	
+http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
+#EXTINF, HBO PLUS	
 http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+#EXTINF, HBO PLUS 1	
 http://f4.tvxweb.net:8082/18086/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboextreme.mx" tvg-name="HBO SIGNATURE" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
+#EXTINF, HBO FAMILY	
+http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
+#EXTINF, HBO SIGNATURE	
 http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
-http://181.191.141.4:9981/stream/channelid/1606078654?profile=pass
+#EXTINF, STAR ACTION	
+http://181.191.141.4:9981/stream/channelid/1356858745?profile=pass
+#EXTINF, STAR CHANEL	
+http://181.191.141.4:9981/stream/channelid/494575838?profile=pass
+#EXTINF, STAR CLASSIC	
+Http://181.191.141.4:9981/stream/channelid/903186196?profile=pass
+#EXTINF, STAR FUN	
+http://181.191.141.4:9981/stream/channelid/53117060?profile=pass
+#EXTINF, STAR HITS	
+http://181.191.141.4:9981/stream/channelid/1806810998?profile=pass
+#EXTINF, STAR LIFE	
+http://45.236.175.117:9600/play/a01w
+#EXTINF, STAR SERIE
+http://181.191.141.4:9981/stream/channelid/2121475732?profile=pass
+
+
 
 #EXTINF:-1 group-title="Starz" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
 http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
