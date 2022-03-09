@@ -132,12 +132,25 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2069
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2085
 #EXTINF:-1 tvg-id="foxlife.la" tvg-name="TV | STAR LIFE HD (MX)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="TV",MX | STAR LIFE HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2086
+
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO FHD (CO)" tvg-logo="" group-title="TV",MX | HBO FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2220
 #EXTINF:-1 tvg-id="hbo2.co" tvg-name="TV | HBO 2 FHD (CO)" tvg-logo="" group-title="TV",MX | HBO 2 FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2223
 #EXTINF:-1 tvg-id="hbofamily.co" tvg-name="TV | HBO FAMILY FHD (CO)" tvg-logo="" group-title="TV",MX | HBO FAMILY FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2226
+#EXTINF:-1 tvg-id="" tvg-name="TV | HBO Mundi HD (MX)" tvg-logo="" group-title="TV",MX | HBO Mundi HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2238
+#EXTINF:-1 tvg-id="hboplus.co" tvg-name="TV | HBO PLUS FHD (CO)" tvg-logo="" group-title="TV",MX | HBO PLUS FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2229
+#EXTINF:-1 tvg-id="" tvg-name="TV | HBO Pop FHD (MX)" tvg-logo="" group-title="TV",MX | HBO Pop FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2236
+#EXTINF:-1 tvg-id="hbopop.co" tvg-name="TV | HBO Pop HD (CO)" tvg-logo="" group-title="TV",MX | HBO Pop HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2237
+#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="TV | HBO SIGNATURE FHD (CO)" tvg-logo="" group-title="TV",MX | HBO SIGNATURE FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/5153
+#EXTINF:-1 tvg-id="maxprime.la" tvg-name="TV | HBO Xtreme FHD (MX)" tvg-logo="" group-title="TV",MX | HBO Xtreme FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2234
 
 
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO HD " tvg-logo="" group-title="TV",MX | HBO
