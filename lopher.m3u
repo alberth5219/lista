@@ -38,14 +38,14 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/27379
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/3285
 #EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="MX | Investigation Discovery " tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="TV",MX | Investigation DiscoverY
 http://ui.mrzutv.net:8080/spiderman/spiderman/67590
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="MX | Investigation Discovery FHD " tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="TV",MX | Investigation Discovery FHD
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="MX | Investigation Discovery " tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="TV",MX | Investigation Discovery FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2112
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H FHD " tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H FHD
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="MX | Discovery Channel FHD (CO)" tvg-logo="" group-title="TV",MX | Discovery Channel FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2398
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP1 " tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2120
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H " tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H 
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP2" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H 
 http://ui.mrzutv.net:8080/spiderman/spiderman/12000
-#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="MX | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="TV",MX | Discovery Science
-http://ui.mrzutv.net:8080/spiderman/spiderman/67569
 #EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Turbo FHD (MX)" tvg-logo="" group-title="TV",MX | Discovery Turbo FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2380
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery id " tvg-logo="" group-title="TV",MX | Discovery ID 
