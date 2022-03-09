@@ -32,7 +32,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2091
 http://181.191.141.4:9981/stream/channelid/1074479430?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD (MX)" tvg-logo="" group-title="TV",MX | HGTV HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2401
-#EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD " tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="MX",MX | Distrito Comedia
+#EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD " tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="TV",MX | Distrito Comedia
 http://ui.mrzutv.net:8080/spiderman/spiderman/27379
 #EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD (MX)" tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="TV",MX | Distrito Comedia HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/3285
@@ -54,12 +54,9 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/30816
 http://ui.mrzutv.net:8080/spiderman/spiderman/30793
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World FHD (CO)" tvg-logo="" group-title="TV",MX | Discovery World FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2396
-#EXTINF:-1 tvg-id="" tvg-name="MX | TNT Sports 1" tvg-logo="https://i.ibb.co/2d1zCxf/descarga-1.png" group-title="TV",MX | TNT Sports 1
-http://ui.mrzutv.net:8080/spiderman/spiderman/69445
+
 #EXTINF:-1 tvg-id="" tvg-name="MX | TNT Sports HD" tvg-logo="https://i.ibb.co/2d1zCxf/descarga-1.png" group-title="TV",MX | TNT Sports HD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/8117
-#EXTINF:-1 tvg-id="" tvg-name="MX | TNT Sports 2" tvg-logo="https://i.ibb.co/2d1zCxf/descarga-1.png" group-title="TV",MX | TNT Sports 2
-http://ui.mrzutv.net:8080/spiderman/spiderman/69446
 #EXTINF:-1 tvg-id="" tvg-name="MX | TNT Sports 2 HD" tvg-logo="https://i.ibb.co/2d1zCxf/descarga-1.png" group-title="TV",MX | TNT Sports 2 HD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/8119
 #EXTINF:-1 tvg-id="" tvg-name="MX | ESPN (MX)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="TV",MX | ESPN (MX)
@@ -76,6 +73,7 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/383
 http://ui.mrzutv.net:8080/spiderman/spiderman/384
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORT 3(MX)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="TV",MX | FOX SPORT 3(MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/16680
+
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX (MX)" tvg-logo="" group-title="TV",MX | FOX (MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/64
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX LIFE (MX)" tvg-logo="" group-title="TV",MX | FOX LIFE(MX)
@@ -124,10 +122,8 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2104
 http://ui.mrzutv.net:8080/spiderman/spiderman/26028
 #EXTINF:-1 tvg-id="" tvg-name="TV | UNIVERSAL TV (MX)" tvg-logo="" group-title="TV",MX | UNIVERSAL TV HD	
 http://ui.mrzutv.net:8080/spiderman/spiderman/16720
-#EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title=" TV ",MX | Warner Channel.
+#EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="TV",MX | Warner Channel.
 http://ui.mrzutv.net:8080/spiderman/spiderman/72
-#EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel OP2 " tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title=" TV ",MX | Warner Channel OP2
-http://ui.mrzutv.net:8080/spiderman/spiderman/12070
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO HD " tvg-logo="" group-title="TV",MX | HBO
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO 1 " tvg-logo="" group-title="TV",MX | HBO 1
