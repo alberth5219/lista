@@ -72,7 +72,8 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/383
 http://ui.mrzutv.net:8080/spiderman/spiderman/384
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORT 3(MX)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="TV",MX | FOX SPORT 3(MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/16680
-
+#EXTINF:-1 tvg-id="EPG123.68317.schedulesdirect.org" tvg-name="TV | Golden Plus " tvg-logo="" group-title="TV",MX | Golden Plus
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2198
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX (MX)" tvg-logo="" group-title="TV",MX | FOX (MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/64
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX LIFE (MX)" tvg-logo="" group-title="TV",MX | FOX LIFE(MX)
@@ -105,7 +106,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2071
 http://ui.mrzutv.net:8080/spiderman/spiderman/12034
 #EXTINF:-1 tvg-id="" tvg-name="TV | Studio Universal FHD (MX)" tvg-logo="" group-title="TV",MX | Studio Universal FHD (MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/12039
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Studio Universal FHD (MX)" tvg-logo="" group-title="TV",MX | Studio Universal FHD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="TV | Studio Universal FHD (MX)" tvg-logo="" group-title="TV",MX | Studio Universal FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2207
 #EXTINF:-1 tvg-id="depelicula.mx" tvg-name="TV | De Pelicula Plus HD" tvg-logo="" group-title="TV",MX | De Pelicula Plus HD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2213
@@ -123,6 +124,22 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/26028
 http://ui.mrzutv.net:8080/spiderman/spiderman/16720
 #EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="TV",MX | Warner Channel.
 http://ui.mrzutv.net:8080/spiderman/spiderman/72
+#EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL FHD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2068
+#EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL HD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL HD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2069
+#EXTINF:-1 tvg-id="foxlife.co" tvg-name="TV | STAR LIFE FHD (CO)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="TV",MX | STAR LIFE FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2085
+#EXTINF:-1 tvg-id="foxlife.la" tvg-name="TV | STAR LIFE HD (MX)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="TV",MX | STAR LIFE HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2086
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO FHD (CO)" tvg-logo="" group-title="TV",MX | HBO FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2220
+#EXTINF:-1 tvg-id="hbo2.co" tvg-name="TV | HBO 2 FHD (CO)" tvg-logo="" group-title="TV",MX | HBO 2 FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2223
+#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="TV | HBO FAMILY FHD (CO)" tvg-logo="" group-title="TV",MX | HBO FAMILY FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2226
+
+
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO HD " tvg-logo="" group-title="TV",MX | HBO
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO 1 " tvg-logo="" group-title="TV",MX | HBO 1
@@ -135,6 +152,12 @@ http://f4.tvxweb.net:8082/18086/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO ASIGNATURE " tvg-logo="" group-title="TV",MX | HBO ASIGNATURE
 http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="" tvg-name="TV | VH1 Classic" tvg-logo="https://i.postimg.cc/LhF98HJy/vh1-classic.png" group-title="TV",MX | VH1 Classic
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2143
+#EXTINF:-1 tvg-id="" tvg-name="TV | VH1 FHD (MX)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="TV",MX | VH1 FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2140
+#EXTINF:-1 tvg-id="" tvg-name="TV | Telehit Plus FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit Plus FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
 
 
 #EXTINF:-1 group-title="Starz" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
