@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 2
-http://45.236.175.117:9600/play/a03h
-#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 3
-http://45.236.175.117:9600/play/a010
-
 #EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TV FHD" tvg-logo="" group-title="TV",MX | IMAGEN TV FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/1946
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de las Estrellas FHD" tvg-logo="" group-title="TV",MX | Canal de las Estrellas FHD
