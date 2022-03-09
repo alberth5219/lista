@@ -36,20 +36,19 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2401
 http://ui.mrzutv.net:8080/spiderman/spiderman/27379
 #EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD (MX)" tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="TV",MX | Distrito Comedia HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/3285
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="MX | Investigation Discovery " tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="TV",MX | Investigation DiscoverY
-http://ui.mrzutv.net:8080/spiderman/spiderman/67590
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="MX | Investigation Discovery " tvg-logo="https://i.postimg.cc/ZKJDmgHb/id.png" group-title="TV",MX | Investigation Discovery FHD
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2112
-#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="MX | Discovery Channel FHD (CO)" tvg-logo="" group-title="TV",MX | Discovery Channel FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2398
+
+
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP1 " tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2120
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP2" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H 
 http://ui.mrzutv.net:8080/spiderman/spiderman/12000
+
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel HD (MX)" tvg-logo="" group-title="TV",MX | Discovery Channel HD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/6394
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="MX | Discovery Channel FHD (CO)" tvg-logo="" group-title="TV",MX | Discovery Channel FHD (CO)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2398
 #EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Turbo FHD (MX)" tvg-logo="" group-title="TV",MX | Discovery Turbo FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2380
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery id " tvg-logo="" group-title="TV",MX | Discovery ID 
-http://ui.mrzutv.net:8080/spiderman/spiderman/30816
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World " tvg-logo="" group-title="TV",MX | Discovery World 
 http://ui.mrzutv.net:8080/spiderman/spiderman/30793
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World FHD (CO)" tvg-logo="" group-title="TV",MX | Discovery World FHD (CO)
@@ -116,8 +115,8 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2214
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2195
 #EXTINF:-1 tvg-id="" tvg-name="TV | TNT SERIE(MX)" tvg-logo="" group-title="TV",MX | TNT SERIE(MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/5723
-#EXTINF:-1 tvg-id="" tvg-name="TV | TRU TV (MX)" tvg-logo="" group-title="TV",MX | TRU TV HD	
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2104
+#EXTINF:-1 tvg-id="" tvg-name="TV | TCM HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/TCM_logo_old.png/revision/latest/scale-to-width-down/200?cb=20160603144851" group-title="TV",MX | TCM HD
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/1787
 #EXTINF:-1 tvg-id="" tvg-name="TV | TLC (MX)" tvg-logo="" group-title="TV",MX | TLC HD	
 http://ui.mrzutv.net:8080/spiderman/spiderman/26028
 #EXTINF:-1 tvg-id="" tvg-name="TV | UNIVERSAL TV (MX)" tvg-logo="" group-title="TV",MX | UNIVERSAL TV HD	
