@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TV FHD" tvg-logo="" group-title="TV",MX | IMAGEN TV FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/1946
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de las Estrellas FHD" tvg-logo="" group-title="TV",MX | Canal de las Estrellas FHD
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/1918
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="TV",MX | Canal 5 FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/1920
 #EXTINF:-1 tvg-id="" tvg-name="MX | ADN40 FHD" tvg-logo="" group-title="TV",MX | ADN40 FHD
@@ -28,8 +28,6 @@ http://181.191.141.4:9981/stream/channelid/425316660?profile=pass
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2210
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="MX | Comedy Central FHD " tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="TV",MX | Comedy Central FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2091
-#EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD " tvg-logo="" group-title="TV",MX | HGTV HD 
-http://181.191.141.4:9981/stream/channelid/1074479430?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD (MX)" tvg-logo="" group-title="TV",MX | HGTV HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2401
 #EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD " tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="TV",MX | Distrito Comedia
@@ -72,6 +70,8 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/383
 http://ui.mrzutv.net:8080/spiderman/spiderman/384
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORT 3(MX)" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="TV",MX | FOX SPORT 3(MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/16680
+#EXTINF:-1 tvg-id="EPG123.68317.schedulesdirect.org" tvg-name="TV | Golden HD " tvg-logo="" group-title="TV",MX | Golden hd
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/57.m3u8
 #EXTINF:-1 tvg-id="EPG123.68317.schedulesdirect.org" tvg-name="TV | Golden Plus " tvg-logo="" group-title="TV",MX | Golden Plus
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2198
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX (MX)" tvg-logo="" group-title="TV",MX | FOX (MX)
