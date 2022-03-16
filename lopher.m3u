@@ -24,8 +24,8 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2080
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2204
 #EXTINF:-1 tvg-id="cinecanal.co" tvg-name="MX | Cinecanal HD 2" tvg-logo="" group-title="TV",MX | Cinecanal HD 2
 http://181.191.141.4:9981/stream/channelid/425316660?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="MX | Cinemax FHD (MX)" tvg-logo="" group-title="TV",MX | Cinemax FHD (MX)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2210
+#EXTINF:-1 tvg-id="" tvg-name="MX | Cinemax HD (MX)" tvg-logo="" group-title="TV",MX | Cinemax HD (MX)
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/638.m3u8
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="MX | Comedy Central FHD " tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="TV",MX | Comedy Central FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2091
 #EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD (MX)" tvg-logo="" group-title="TV",MX | HGTV HD (MX)
@@ -41,7 +41,7 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/3285
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP1 " tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2120
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP2" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H 
-http://ui.mrzutv.net:8080/spiderman/spiderman/12000
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/742.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel HD (MX)" tvg-logo="" group-title="TV",MX | Discovery Channel HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/6394
@@ -114,6 +114,8 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2207
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2213
 #EXTINF:-1 tvg-id="" tvg-name="TV | De Pelicula Plus FHD (MX)" tvg-logo="" group-title="TV",MX | De Pelicula Plus FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2214
+#EXTINF:-1 tvg-id="" tvg-name="TV | TNT " tvg-logo="" group-title="TV",MX | TNT
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | TNT (MX)" tvg-logo="" group-title="TV",MX | TNT (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2195
 #EXTINF:-1 tvg-id="" tvg-name="TV | TNT SERIE(MX)" tvg-logo="" group-title="TV",MX | TNT SERIE(MX)
@@ -171,6 +173,8 @@ http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2143
 #EXTINF:-1 tvg-id="" tvg-name="TV | VH1 FHD (MX)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="TV",MX | VH1 FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2140
+#EXTINF:-1 tvg-id="" tvg-name="TV | Telehit " tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | Telehit Plus FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit Plus FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
 
