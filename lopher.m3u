@@ -142,44 +142,53 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
 
 
 --------------------------------------------------------PELÍCULAS------------------------------------------------------------------------
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film.mx" tvg-name="Canal Film" tvg-country="CO" tvg-language="Español" tvg-logo="",Canal Film 01
+#EXTINF:-1 tvg-id="Canal Film.mx" tvg-name="Canal Film" tvg-logo="" group-title="PELICULAS",Canal Film 01
 http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MovieMax.mx" tvg-name="MovieMax" tvg-country="CO" tvg-language="Español" tvg-logo="",MovieMax HD
+#EXTINF:-1 tvg-id="MovieMax.mx" tvg-name="MovieMax" tvg-logo="" group-title="PELICULAS",MovieMax HD
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="OuterMax.mx" tvg-name="OuterMax" tvg-country="CO" tvg-language="Español" tvg-logo="",OuterMax HD
+#EXTINF:-1 tvg-id="OuterMax.mx" tvg-name="OuterMax" tvg-logo="" group-title="PELICULAS",OuterMax HD
 http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="CO" tvg-language="Español" tvg-logo="",Canal Film 02
+#EXTINF:-1 tvg-id="Canal Film" tvg-name="Canal Film" tvg-logo="" group-title="PELICULAS",Canal Film 02
 http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Crackle" tvg-name="Crackle original" tvg-country="CO" tvg-language="Español" tvg-logo="",Crackle original movie
+#EXTINF:-1 tvg-id="Crackle" tvg-name="Crackle original" tvg-logo="" group-title="PELICULAS",Crackle original movie
 http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="CO" tvg-language="Español" tvg-logo="",Canal Film 03
+#EXTINF:-1 tvg-id="Canal Film" tvg-name="Canal Film" tvg-logo="" group-title="PELICULAS",Canal Film 03
 http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="cartelerapremiere.mx" tvg-name="CARTELERA PREMIERE" tvg-country="CO" tvg-language="Español" tvg-logo="",CARTELERA PREMIERE
+#EXTINF:-1 tvg-id="cartelerapremiere.mx" tvg-name="CARTELERA PREMIERE" tvg-logo="" group-title="PELICULAS",CARTELERA PREMIERE
 http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg" group-title="PELICULAS",HBO
 http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg" group-title="PELICULAS",HBO
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png" group-title="PELICULAS",HBO FAMILY
 http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="PELICULAS",HBO PLUS
 http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png" group-title="PELICULAS",HBO PLUS
 http://f4.tvxweb.net:8082/18086/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboextreme.mx" tvg-name="HBO SIGNATURE" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
+#EXTINF:-1 tvg-id="hboextreme.mx" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png" group-title="PELICULAS",HBO SIGNATURE
 http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png" group-title="PELICULAS",CINEMAX
 http://181.191.141.4:9981/stream/channelid/1606078654?profile=pass
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtime.mx" tvg-name="SHOWTIME HD" tvg-country="CO" tvg-language="Español" tvg-logo="",SHOWTIME HD
+#EXTINF:-1 tvg-id="showtime.mx" tvg-name="SHOWTIME HD" tvg-logo="" group-title="PELICULAS",SHOWTIME HD
 http://f4.tvxweb.net:8082/18087/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtime.mx" tvg-name="SHOWTIME HD" tvg-country="CO" tvg-language="Español" tvg-logo="",SHOWTIME HD
+#EXTINF:-1 tvg-id="showtime.mx" tvg-name="SHOWTIME HD" tvg-logo="" group-title="PELICULAS",SHOWTIME HD
 http://f4.tvxweb.net:8082/24313/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtimebeyond.mx" tvg-name="Showtime Beyond HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Showtime Beyond HD
+#EXTINF:-1 tvg-id="showtimebeyond.mx" tvg-name="Showtime Beyond HD" tvg-logo="" group-title="PELICULAS",Showtime Beyond HD
 http://f4.tvxweb.net:8082/24315/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtimeeast.mx" tvg-name="Showtime East HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Showtime East HD
+#EXTINF:-1 tvg-id="showtimeeast.mx" tvg-name="Showtime East HD" tvg-logo="" group-title="PELICULAS",Showtime East HD
 http://f4.tvxweb.net:8082/24314/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtimewest.mx" tvg-name="Showtime West HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Showtime West HD
+#EXTINF:-1 tvg-id="showtimewest.mx" tvg-name="Showtime West HD" tvg-logo="" group-title="PELICULAS",Showtime West HD
 http://f4.tvxweb.net:8082/24312/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="IndiePlex.mx" tvg-name="IndiePlex" tvg-logo="" group-title="PELICULAS",IndiePlex HD
+http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="MoviePlex.mx" tvg-name="MoviePlex" tvg-logo="" group-title="PELICULAS",MoviePlex HD
+http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="RetroPlex.mx" tvg-name="RetroPlex " tvg-logo="" group-title="PELICULAS",RetroPlex HD
+http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="MoreMax.mx" tvg-name="MoreMax HD" tvg-logo="" group-title="PELICULAS",MoreMax HD
+http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
+
 #EXTINF:-1 group-title="PELICULAS" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
 http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="PELICULAS" tvg-id="starzcinema.mx" tvg-name="Starz Cinema HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Cinema HD
@@ -212,11 +221,4 @@ http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
 http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="IndiePlex.mx" tvg-name="IndiePlex" tvg-country="CO" tvg-language="Español" tvg-logo="",IndiePlex HD
-http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MoviePlex.mx" tvg-name="MoviePlex" tvg-country="CO" tvg-language="Español" tvg-logo="",MoviePlex HD
-http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="RetroPlex.mx" tvg-name="RetroPlex " tvg-country="CO" tvg-language="Español" tvg-logo="",RetroPlex HD
-http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MoreMax.mx" tvg-name="MoreMax HD" tvg-country="CO" tvg-language="Español" tvg-logo="",MoreMax HD
-http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
+
