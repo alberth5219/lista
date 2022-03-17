@@ -24,6 +24,8 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2080
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/479.m3u8
 #EXTINF:-1 tvg-id="cinecanal.co" tvg-name="MX | Cinemax " tvg-logo="" group-title="TV",MX | Cinemax
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/638.m3u8
+#EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
 
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="MX | Comedy Central FHD " tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="TV",MX | Comedy Central FHD (CO)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2091
@@ -135,14 +137,9 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | Telehit Plus FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit Plus FHD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
 
-#EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL FHD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL FHD (CO)
+#EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
-#EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL HD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL HD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2069
-#EXTINF:-1 tvg-id="foxlife.co" tvg-name="TV | STAR LIFE FHD (CO)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="TV",MX | STAR LIFE FHD (CO)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2085
-#EXTINF:-1 tvg-id="foxlife.la" tvg-name="TV | STAR LIFE HD (MX)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="TV",MX | STAR LIFE HD (MX)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2086
+
 
 #EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 01 " tvg-logo="" group-title="MOVIE",MX | MOVIE 01
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
