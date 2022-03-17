@@ -128,7 +128,7 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/154.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Canal Film.mx" tvg-name="MOVIE | Canal Film" tvg-logo="" group-title="MOVIE", MOVIE | Canal Film 01
+#EXTINF:-1 tvg-id="Canal Film.mx" tvg-name="Canal Film" tvg-logo="" group-title="PELICULAS", Canal Film 01
 http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-id="MovieMax.mx" tvg-name="MovieMax" tvg-logo="" group-title="PELICULAS",MovieMax HD
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
