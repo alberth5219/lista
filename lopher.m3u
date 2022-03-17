@@ -40,14 +40,15 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2120
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP2" tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H 
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/742.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hGvO5U5OM0k/YBNDa5PbEZI/AAAAAAAAav4/8KQMqW9j1HggbfkhYEoc3HUa_QbpGa1hwCPcBGAsYHg/s71/investigation-discovery.PNG",Discovery ID HD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery ID " tvg-logo="https://1.bp.blogspot.com/-hGvO5U5OM0k/YBNDa5PbEZI/AAAAAAAAav4/8KQMqW9j1HggbfkhYEoc3HUa_QbpGa1hwCPcBGAsYHg/s71/investigation-discovery.PNG", group-title="TV",MX |Discovery ID HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/68.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A29zzn_W6oc/YKvGS_33r-I/AAAAAAAAcek/cUaLq_vpji0Ee1beVDfyy2B6-ov9lGh7gCPcBGAsYHg/s71/tlc.PNG",Discovery TLC HD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery TLC " tvg-logo="https://1.bp.blogspot.com/-A29zzn_W6oc/YKvGS_33r-I/AAAAAAAAcek/cUaLq_vpji0Ee1beVDfyy2B6-ov9lGh7gCPcBGAsYHg/s71/tlc.PNG", group-title="TV",MX |Discovery TLC HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/87.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/AsOPz-JsJ1a_TVKJHXCfhEiSNZZJArw_SiQ1ey_0NZbBQ2beYgg1w2zo9Hfr2pccZ5qDRD88oxPet9CZ_PY=w70-h71",Discovery Channel HD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery CHANEL" tvg-logo="https://1.bp.blogspot.com/AsOPz-JsJ1a_TVKJHXCfhEiSNZZJArw_SiQ1ey_0NZbBQ2beYgg1w2zo9Hfr2pccZ5qDRD88oxPet9CZ_PY=w70-h71", group-title="TV",MX |Discovery Channel HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/741.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/sPmePCBjGwejJ91-gmgVeKghbjl8mA2BzeHbH4w8HlmwuVKh9jfgjHd9NIY7VjdcwFUuynB6O3BNAU1KvQg=w70-h71",NatGEO HD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | NATGEO (MX)" tvg-logo="https://1.bp.blogspot.com/sPmePCBjGwejJ91-gmgVeKghbjl8mA2BzeHbH4w8HlmwuVKh9jfgjHd9NIY7VjdcwFUuynB6O3BNAU1KvQg=w70-h71", group-title="TV",MX |NatGEO HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/76.m3u8
+
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel HD (MX)" tvg-logo="" group-title="TV",MX | Discovery Channel HD (MX)
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/742.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Turbo FHD (MX)" tvg-logo="" group-title="TV",MX | Discovery Turbo FHD (MX)
@@ -189,30 +190,4 @@ http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="Starz" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
 http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 01 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 01 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4726
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 02 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 02 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4725
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 03 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 03 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4724
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 04 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 04 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4723
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 05 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 05 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4722
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 06 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 06 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4721
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 07 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 07 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4720
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 08 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 08 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4719
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 09 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 09 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4718
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA 10 PPV" tvg-logo="http://disfruta.net:80/images/19ee4998935ac6008713852eaf852dde.png" group-title="CINEMA PPV",CINEMA 10 PPV
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/4717
-
-
-
- 
-
 
