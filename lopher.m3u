@@ -126,6 +126,14 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/26028
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="TV",MX | Warner Channel.
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV | VH1 Classic" tvg-logo="https://i.postimg.cc/LhF98HJy/vh1-classic.png" group-title="TV",MX | VH1 Classic
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2143
+#EXTINF:-1 tvg-id="" tvg-name="TV | VH1 FHD (MX)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="TV",MX | VH1 FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2140
+#EXTINF:-1 tvg-id="" tvg-name="TV | Telehit " tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV | Telehit Plus FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit Plus FHD (MX)
+http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
 
 #EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL FHD (CO)" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL FHD (CO)
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
@@ -136,26 +144,19 @@ http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2085
 #EXTINF:-1 tvg-id="foxlife.la" tvg-name="TV | STAR LIFE HD (MX)" tvg-logo="https://i.ibb.co/ctKvjnd/descarga-9.png" group-title="TV",MX | STAR LIFE HD (MX)
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2086
 
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO HD " tvg-logo="" group-title="TV",MX | HBO
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 01 " tvg-logo="" group-title="MOVIE",MX | MOVIE 01
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO 1 " tvg-logo="" group-title="TV",MX | HBO 1
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 02 " tvg-logo="" group-title="MOVIE",MX | MOVIE 02
 http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO PLUS " tvg-logo="" group-title="TV",MX | HBO PLUS
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 03 " tvg-logo="" group-title="MOVIE",MX | MOVIE 03
 http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO PLUS 1 " tvg-logo="" group-title="TV",MX | HBO PLUS 1
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 04 " tvg-logo="" group-title="TV",MX | MOVIE 04
 http://f4.tvxweb.net:8082/18086/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO FAMILY " tvg-logo="" group-title="TV",MX | HBO FAMILY
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 05 " tvg-logo="" group-title="TV",MX | MOVIE 05
 http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="TV | HBO ASIGNATURE " tvg-logo="" group-title="TV",MX | HBO ASIGNATURE
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="MOVIE | MOVIE 06 " tvg-logo="" group-title="TV",MX | MOVIE 06
 http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="" tvg-name="TV | VH1 Classic" tvg-logo="https://i.postimg.cc/LhF98HJy/vh1-classic.png" group-title="TV",MX | VH1 Classic
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2143
-#EXTINF:-1 tvg-id="" tvg-name="TV | VH1 FHD (MX)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="TV",MX | VH1 FHD (MX)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2140
-#EXTINF:-1 tvg-id="" tvg-name="TV | Telehit " tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV | Telehit Plus FHD (MX)" tvg-logo="https://i.postimg.cc/ZnHm4rhq/telehit-plus.png" group-title="TV",MX | Telehit Plus FHD (MX)
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2138
+
 
 
 #EXTINF:-1 group-title="Starz" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
