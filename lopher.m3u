@@ -1,7 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TV FHD" tvg-logo="" group-title="TV",MX | IMAGEN TV FHD
-http://ui.mrzutv.net:8080/spiderman/spiderman/1513
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO FULL.HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19459
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YUEbpKFmy5A/YhRbnqa8kYI/AAAAAAAAAPw/y-sXRn1ZX1YQlE2nMexJub6VFfe_1j4dACLQBGAYYCw/s239-c/Screenshot_20220221_202525.jpg",HBO 2 FUL-HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/35856
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DlYLjT0UZ8g/YhRj01m1a_I/AAAAAAAAAQU/5Lfda2gyoPgCml6Wk55jYlvQWEH9wjYTwCLQBGAYYCw/s239-c/HBO%2BFAMILY.jpg",HBO Family HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/35874
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png",CINEMAX HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19308
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png",HBO + HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19463
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME FULL.4K
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19266
+
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de las Estrellas FHD" tvg-logo="" group-title="TV",MX | Canal de las Estrellas FHD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="TV",MX | Canal 5 FHD
