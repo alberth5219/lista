@@ -38,15 +38,17 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Foro TV FHD" tvg-logo="" group-title="TV",MX | Foro TV FHD
 http://ui.mrzutv.net:8080/spiderman/spiderman/65388
 #EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="MX | A&E FHD " tvg-logo="https://i.postimg.cc/g0Nqd3FS/a-and-e-logo.png" group-title="TV",MX | A&E FHD
-http://ui.mrzutv.net:8080/spiderman/spiderman/65388
+http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 #EXTINF:-1 tvg-id="amc.co" tvg-name="MX | AMC FHD (CO)" tvg-logo="https://i.postimg.cc/ZRPmCYHM/descarga-4.png" group-title="TV",MX | AMC FHD
-http://ui.mrzutv.net:8080/spiderman/spiderman/62
+http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
 #EXTINF:-1 tvg-id="axn.co" tvg-name="MX | AXN FHD (CO)" tvg-logo="https://i.postimg.cc/50mcf7Nc/209.png" group-title="TV",MX | AXN FHD
 http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2080
 #EXTINF:-1 tvg-id="cinecanal.co" tvg-name="MX | Cinecanal FHD (CO)" tvg-logo="" group-title="TV",MX | Cinecanal FHD (CO)
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/479.m3u8
-#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="MX | Cinemax " tvg-logo="" group-title="TV",MX | Cinemax
+http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8 
+#EXTINF:-1 tvg-id="cinemax.co" tvg-name="MX | Cinemax " tvg-logo="" group-title="TV",MX | Cinemax
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/638.m3u8
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="MX | Cinemax op 2" tvg-logo="" group-title="TV",MX | Cinemax op 2
+http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.co" tvg-name="TV | STAR CHANNEL" tvg-logo="https://i.ibb.co/fHHFLcj/descarga-10.png" group-title="TV",MX | STAR CHANNEL
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="MX | Comedy Central FHD " tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="TV",MX | Comedy Central FHD (CO)
@@ -97,7 +99,7 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/16680
 #EXTINF:-1 tvg-id="EPG123.68317.schedulesdirect.org" tvg-name="TV | Golden HD " tvg-logo="" group-title="TV",MX | Golden hd
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/57.m3u8
 #EXTINF:-1 tvg-id="EPG123.68317.schedulesdirect.org" tvg-name="TV | Golden Plus " tvg-logo="" group-title="TV",MX | Golden Plus
-http://disfruta.net:80/danielerodriguezbel/STuEbTeyYS/2198
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX (MX)" tvg-logo="" group-title="TV",MX | FOX (MX)
 http://ui.mrzutv.net:8080/spiderman/spiderman/64
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX LIFE (MX)" tvg-logo="" group-title="TV",MX | FOX LIFE(MX)
@@ -128,7 +130,7 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/84.m3u8
 #EXTINF:-1 tvg-id="depelicula.mx" tvg-name="TV | De Pelicula Plus HD" tvg-logo="" group-title="TV",MX | De Pelicula Plus HD
 http://ui.mrzutv.net:8080/spiderman/spiderman/97
 #EXTINF:-1 tvg-id="" tvg-name="TV | De Pelicula Plus FHD (MX)" tvg-logo="" group-title="TV",MX | De Pelicula Plus FHD (MX)
-http://ui.mrzutv.net:8080/spiderman/spiderman/77
+http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | TNT " tvg-logo="" group-title="TV",MX | TNT
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | TNT SERIE(MX)" tvg-logo="" group-title="TV",MX | TNT SERIE(MX)
@@ -141,6 +143,8 @@ http://ui.mrzutv.net:8080/spiderman/spiderman/26028
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel." tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="TV",MX | Warner Channel.
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV | Warner Channel op2" tvg-logo="https://i.postimg.cc/4yyTwDpf/warner.png" group-title="TV",MX | Warner Channel op2
+http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV | VH1 Classic" tvg-logo="https://i.postimg.cc/LhF98HJy/vh1-classic.png" group-title="TV",MX | VH1 Classic
 http://ui.mrzutv.net:8080/spiderman/spiderman/16722
 #EXTINF:-1 tvg-id="" tvg-name="TV | VH1 FHD (MX)" tvg-logo="https://i.postimg.cc/NMW9RvyX/vh1hd.png" group-title="TV",MX | VH1 FHD (MX)
