@@ -51,7 +51,7 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/638.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="MX | Comedy Central FHD " tvg-logo="https://i.postimg.cc/ncjm56hP/K4-Iyl-V9m-400x400.jpg" group-title="TV",MX | Comedy Central FHD (CO)
 http://ui.mrzutv.net:8080/spiderman/spiderman/11927
-#EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD op 2" tvg-logo="" group-title="TV",MX | HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD " tvg-logo="" group-title="TV",MX | HGTV HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD " tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="TV",MX | Distrito Comedia
 http://ui.mrzutv.net:8080/spiderman/spiderman/27379
@@ -191,39 +191,4 @@ http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-id="RetroPlex.mx" tvg-name="RetroPlex " tvg-logo="" group-title="PELICULAS",RetroPlex HD
 http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-id="MoreMax.mx" tvg-name="MoreMax HD" tvg-logo="" group-title="PELICULAS",MoreMax HD
-http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starz.mx" tvg-name="Starz HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz HD
-http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcinema.mx" tvg-name="Starz Cinema HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Cinema HD
-http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
-http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.mx" tvg-name="Starz Comedy HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Comedy HD
-http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzeast.mx" tvg-name="Starz East HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz East HD
-http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzedge.mx" tvg-name="Starz Edge HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Edge HD
-http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzkids&family.mx" tvg-name="Starz Kids & Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Kids & Family HD
-http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzwest.mx" tvg-name="Starz West HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz West HD
-http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
-http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.mx" tvg-name="Starz Encore HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore HD
-http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreaction.mx" tvg-name="Starz Encore Action" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Action
-http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreblack.mx" tvg-name="Starz Encore Black HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Black HD
-http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreclassic.mx" tvg-name="Starz Encore Classic HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Classic HD
-http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorefamily.mx" tvg-name="Starz Encore Family HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Family HD
-http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoresuspense.mx" tvg-name="Starz Encore Suspense HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Suspense HD
-http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorewestern.mx" tvg-name="Starz Encore Western HD" tvg-country="CO" tvg-language="Español" tvg-logo="",Starz Encore Western
-http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
 
