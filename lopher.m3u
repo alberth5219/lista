@@ -55,6 +55,8 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/489.m3u8
 http://ui.mrzutv.net:8080/spiderman/spiderman/11927
 #EXTINF:-1 tvg-id="" tvg-name="MX | HGTV HD " tvg-logo="" group-title="TV",MX | HGTV HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | HGTV op2 " tvg-logo="" group-title="TV",MX | HGTV op2
+http://45.238.54.70:8000/play/a01z
 #EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia HD " tvg-logo="https://i.postimg.cc/ry3zHTwR/distrito-comedia.png" group-title="TV",MX | Distrito Comedia
 http://ui.mrzutv.net:8080/spiderman/spiderman/27379
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="MX | Discovery H&H OP1 " tvg-logo="https://i.postimg.cc/k4wXwrhG/discoveryhh.png" group-title="TV",MX | Discovery H&H FHD
